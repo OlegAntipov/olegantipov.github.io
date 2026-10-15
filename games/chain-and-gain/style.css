@@ -1,0 +1,148 @@
+  html,
+  body {
+  	font-family: "Exo 2";
+  	border: 0px;
+  	margin: 0;
+  	padding: 0;
+  	text-align: center;
+  	background-image: url(img/bg.jpg);
+  	background-position: top;
+  	background-repeat: repeat;
+  	background-color: #206b85;
+  	background-size: 55%;
+  }
+
+  img {
+  	border: 0px;
+  }
+
+  .downloadBtn {
+  	-webkit-box-shadow: #000000 0px 10px 30px;
+  	-moz-box-shadow: #000000 0px 10px 30px;
+  	box-shadow: #000000 0px 10px 30px;
+
+  	-webkit-border-radius: 16px;
+  	-moz-border-radius: 16px;
+  	border-radius: 16px;
+  	margin-bottom: 20px;
+
+  	width: 50%;
+  	max-width: 350px;
+
+  	animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+  	0% {
+  		transform: scale(1);
+  		/* Исходный размер */
+  	}
+
+  	50% {
+  		transform: scale(1.05);
+  		/* Увеличение на 5% */
+  	}
+
+  	100% {
+  		transform: scale(1);
+  		/* Возврат к исходному размеру */
+  	}
+  }
+
+  .clouds {
+  	width: 100%;
+  	margin: 0;
+  	padding: 0;
+  	background-image: url(img/clouds.png);
+  	background-position: top center;
+  	background-repeat: repeat;
+  }
+
+  .stars {
+  	width: 100%;
+  	margin: 0;
+  	padding: 0;
+  	background-image: url(img/stars.gif);
+  	background-position: top left;
+  	background-repeat: repeat;
+  }
+
+  .borderL {
+  	border: 0px;
+  	margin: 0;
+  	padding: 0;
+  	text-align: center;
+  	background-image: url(img/borderL.png);
+  	background-position: top left;
+  	background-repeat: repeat-y;
+  }
+
+  .borderR {
+  	border: 0px;
+  	margin: 0;
+  	padding: 0;
+  	text-align: center;
+  	background-image: url(img/borderR.png);
+  	background-position: top right;
+  	background-repeat: repeat-y;
+  }
+
+  .cenbg {
+  	border: 0px;
+  	margin: 0;
+  	padding: 0;
+  	text-align: center;
+  	background-image: url(img/cenbg.png);
+  	background-position: top center;
+  	background-repeat: repeat-y;
+  }
+
+
+
+
+  .mainCont {
+  	width: 990px;
+  	background-color: #333333;
+  	margin: auto;
+  	text-align: left;
+
+  	padding: 10px;
+
+  	margin-top: 15px;
+  	margin-bottom: 15px;
+
+  	-webkit-border-radius: 8px;
+  	-moz-border-radius: 8px;
+  	border-radius: 8px;
+  	-webkit-box-shadow: #666 1px 1px 3px;
+  	-moz-box-shadow: #666 1px 1px 3px;
+  	box-shadow: #666 1px 1px 3px;
+  }
+
+  .descr {
+  	text-align: justify;
+  	font-size: 25px;
+  	line-height: 27px;
+  	font-weight: normal;
+  	color: #FFFFFF;
+  	text-shadow: 1px 1px 3px #333333;
+  }
+
+  .descr a {
+  	color: #ffff00;
+  	text-decoration: none;
+  }
+
+  .descr a:hover {
+  	text-decoration: underline;
+  }
+
+  .spanColor {
+  	color: #00FF00;
+  	font-weight: bold;
+  }
+
+  .spanColor2 {
+  	color: #FFFF00;
+  	font-weight: bold;
+  }
