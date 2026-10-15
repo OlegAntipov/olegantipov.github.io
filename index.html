@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oleg Antipov - indie game developer</title>
+  <meta name="description"
+    content="Oleg Antipov - I'm a part-time indie game developer who loves making fun little games.">
+  <meta property="og:title" content="Oleg Antipov - indie game developer">
+  <meta property="og:description" content="I'm a part-time indie game developer who loves making fun little games.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://OlegAntipov.com">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Oleg Antipov - indie game developer">
+  <link rel="canonical" href="https://OlegAntipov.com">
+  <link rel="icon" type="image/png" href="img/favicon.ico">
+  <meta name="theme-color" content="#f3f4f8">
+
+  <!-- Apply saved/system theme before first paint (no flash) -->
+  <script>
+    (function () {
+      var t; try { t = localStorage.getItem('theme'); } catch (e) { }
+      if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Archivo+Black:opsz,wght@12..96,500;12..96,700;12..96,800&family=Archivo:wght@400;500;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CX3JMSCN1R"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-CX3JMSCN1R');
+  </script>
+</head>
+
+<body>
+  <div class="progress" id="progress"></div>
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="logo" href="./" data-text="Oleg Antipov">Oleg&nbsp;Antipov<span>.com</span></a>
+      <nav class="socials" aria-label="Social networks">
+        <a href="https://twitter.com/olantipov" target="_blank" rel="noopener" aria-label="Twitter / X">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor"
+              d="M4 4l6.9 9.2L4.2 20h1.9l5.6-5.8L16 20h4l-7.2-9.6L19.2 4h-1.9l-5.1 5.3L8.2 4H4zm2.9 1.4h1.4l8.8 13.2h-1.4L6.9 5.4z" />
+          </svg>
+        </a>
+        <a href="https://www.instagram.com/olegantipovgames" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8">
+            <rect x="3.5" y="3.5" width="17" height="17" rx="5" />
+            <circle cx="12" cy="12" r="4" />
+            <circle cx="17.2" cy="6.8" r="1" fill="currentColor" stroke="none" />
+          </svg>
+        </a>
+        <a href="https://www.facebook.com/olegantipovgames" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor"
+              d="M13.5 21v-7.6h2.6l.4-3h-3V8.5c0-.9.3-1.5 1.5-1.5h1.6V4.3c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H8v3h2.4V21h3.1z" />
+          </svg>
+        </a>
+        <a href="https://www.vk.com/olegantipovgames" target="_blank" rel="noopener" aria-label="VK">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><text x="12" y="16.5" text-anchor="middle"
+              font-family="Arial, sans-serif" font-weight="800" font-size="12.5" fill="currentColor">VK</text></svg>
+        </a>
+        <a href="https://youtube.com/OlegAntipov" target="_blank" rel="noopener" aria-label="YouTube">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <rect x="2.8" y="5.5" width="18.4" height="13" rx="4" fill="none" stroke="currentColor"
+              stroke-width="1.8" />
+            <path fill="currentColor" d="M10 9.2v5.6l4.8-2.8z" />
+          </svg>
+        </a>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch theme">
+          <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round">
+            <circle cx="12" cy="12" r="4" />
+            <path
+              d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" />
+          </svg>
+          <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor"
+            stroke-width="1.8" stroke-linejoin="round">
+            <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" />
+          </svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="wrap hero">
+      <h1><span class="t">Part-time indie<br>developer making<br><span class="rot" id="rot"
+            data-words="fun little games|tiny arcade chaos|weird logic puzzles|pixel-sized fun">fun little
+            games</span></span></h1>
+      <div class="hero-side">
+        <p>Previously I worked on flash games for the web, now I develop mobile and desktop games. I hope you enjoy
+          them!
+          I am also open to new contacts, you can DM me through social networks, links are at the top of this page.</p>
+      </div>
+    </section>
+
+    <!-- <div class="marquee" aria-label="All games"><div id="marquee"></div></div> -->
+
+    <section class="wrap" aria-label="Games">
+      <div class="chips" id="chips" role="group" aria-label="Filter games"></div>
+      <div class="grid" id="games"></div>
+      <noscript>
+        <p class="hero">Please enable JavaScript to see the games list.</p>
+      </noscript>
+    </section>
+  </main>
+
+  <footer class="wrap site-footer"><span id="year">2026</span> (C) OLEG ANTIPOV</footer>
+
+  <dialog id="popup" aria-labelledby="popup-title">
+    <button class="popup-close" type="button" aria-label="Close">
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round">
+        <path d="M6 6l12 12M18 6L6 18" />
+      </svg>
+    </button>
+    <div class="popup-media" id="popup-media"><img class="popup-shot" id="popup-shot" alt=""></div>
+    <div class="popup-body">
+      <h2 id="popup-title"></h2>
+      <div class="tags" id="popup-tags"></div>
+      <p id="popup-desc"></p>
+      <a class="btn" id="popup-dl" href="#" download>
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 4v11M7 10.5l5 5 5-5M5 20h14" />
+        </svg>
+        Download
+      </a>
+    </div>
+  </dialog>
+
+  <script src="js/games.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
