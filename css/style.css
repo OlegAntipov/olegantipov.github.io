@@ -100,7 +100,7 @@ body.locked{overflow:hidden}
 
 .rot{display:inline-grid;vertical-align:baseline;margin-top:.3em}
 .rot>*{grid-area:1/1}
-.rs{visibility:hidden;padding:0 .18em;pointer-events:none}
+.rs{visibility:hidden;padding:0.2em .18em;pointer-events:none}
 .rot-v{justify-self:start;align-self:start;color:#fff;background:linear-gradient(100deg,var(--accent),var(--pink));padding:0.2em .18em;border-radius:.16em;rotate:-1.6deg;box-shadow:.06em .07em 0 var(--lemon);-webkit-box-decoration-break:clone;box-decoration-break:clone}
 .rot-v::after{content:"";display:inline-block;width:.08em;height:.8em;margin-left:.06em;background:#fff;vertical-align:-.04em;animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
@@ -123,7 +123,7 @@ body.locked{overflow:hidden}
 /* headline: always 3 lines, size scales with its own column so the first two lines never wrap */
 .hero h1{container-type:inline-size;max-width:none}
 .hero h1 .t{display:block;font-size:min(10.5cqi,5.2rem);white-space:nowrap}
-.hero h1 .rot{white-space:nowrap;}
+.hero h1 .rot{white-space:nowrap;font-size:.8em;}
 
 /* light aurora: plain gradients, no blur filters, no animation */
 .aurora i{position:absolute;width:60vmax;height:60vmax;border-radius:50%;opacity:.28;background:radial-gradient(circle,var(--c) 0,transparent 62%)}
