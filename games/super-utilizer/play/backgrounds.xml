@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:54657798c9ed4ed6c9b028fca177c284:bf46520b6611c7f988d1d823dcf20b11:236ff6bd325811adc95ed101e83abd06$ -->
+<TextureAtlas imagePath="backgrounds.png" width="2048" height="2048">
+    <SubTexture name="bgGrad" x="1741" y="2" width="50" height="256"/>
+    <SubTexture name="clouds1" x="2" y="2" width="799" height="1020"/>
+    <SubTexture name="clouds2" x="2" y="1024" width="799" height="1020"/>
+    <SubTexture name="clouds3" x="803" y="2" width="799" height="1020"/>
+    <SubTexture name="clouds4" x="803" y="1024" width="799" height="1020"/>
+    <SubTexture name="horzLine" x="1618" y="244" width="10" height="20"/>
+    <SubTexture name="star" x="1604" y="244" width="12" height="11" frameX="-3" frameY="-4" frameWidth="15" frameHeight="15"/>
+    <SubTexture name="vignette" x="1604" y="2" width="135" height="240"/>
+</TextureAtlas>

@@ -1,0 +1,1133 @@
+<abyssData>
+	<wave count='1' chainDist='0' typeWayPoints='squareLoop' options='{"disableAccDec":true,"wpOffsetY":200}'>
+		enemyMover
+	</wave>
+	<wave count='3' chainDist='400' typeWayPoints='xBased' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='topShootSpike' options='{}'>
+		enemyShooter
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyShooter
+	</wave>
+	<wave count='2' chainDist='500' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyMover
+	</wave>
+	<wave count='2' chainDist='500' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover
+	</wave>
+	<wave count='2' chainDist='700' typeWayPoints='xBased' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='3' chainDist='1300' typeWayPoints='topShootSquare' options='{}'>
+		enemyShooter
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyMover
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorY":true,"wpOffsetY":400}'>
+		enemyMover
+	</wave>
+	<wave count='3' chainDist='700' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"disableAccDec":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='3' chainDist='900' typeWayPoints='topCircleAndRtoL' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fullWaveHorz' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyShooter
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='700' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='700' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":300,"wpPlusMirrorY":true}'>
+		enemyShooter,enemyMoverFast
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"mirrorY":true,"wpOffsetX":300,"wpPlusMirrorY":true}'>
+		enemyShooter,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='centerShootY' options='{"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='600' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"mirrorX":true}'>
+		enemyMover
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyShooter,enemyMover
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='5' chainDist='400' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyMover,enemyShooter,enemyShooter,enemyShooter,enemyMover
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSpike' options='{}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='xBased' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCircleAndRtoL' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyMover,enemyMoverFat,enemyMover
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fullWaveHorz' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFast,enemyShooter,enemyShooter,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{"mirrorX":true,"wpOffsetY":200}'>
+		enemyBlob
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMover
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMover
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSpike' options='{"wpOffsetX":300,"wpOffsetY":200}'>
+		enemyBlob
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetY":300}'>
+		enemyShooterSide,enemyMover,enemyMover
+	</wave>
+	<wave count='4' chainDist='500' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast,enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast,enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"wpOffsetY":300}'>
+		enemyShooterSide,enemyShooter,enemyShooter
+	</wave>
+	<wave count='3' chainDist='500' typeWayPoints='xBased' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMover,enemyShooter
+	</wave>
+	<wave count='3' chainDist='500' typeWayPoints='xBased' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMover,enemyShooter
+	</wave>
+	<wave count='2' chainDist='700' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='2' chainDist='700' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorX":false,"wpOffsetX":120}'>
+		enemyBlob
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorX":true,"wpOffsetX":120}'>
+		enemyBlob
+	</wave>
+	<wave count='10' chainDist='40' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFast
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyShooter
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyShooter
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{"mirrorX":false}'>
+		enemyBlob
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='sideMove' options='{"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='sideMove' options='{"mirrorX":true,"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='6' chainDist='800' typeWayPoints='halfWaveVert' options='{"disableAccDec":true}'>
+		enemyMover
+	</wave>
+	<wave count='6' chainDist='800' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyShooterAdv,enemyMover,enemyMover,enemyShooter,enemyMover,enemyMover,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='500' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyShooter,enemyShooter,enemyMoverFast,enemyMover
+	</wave>
+	<wave count='4' chainDist='500' typeWayPoints='pinetree' options='{"disableAccDec":true}'>
+		enemyMover,enemyShooter,enemyShooter,enemyMoverFast,enemyMover
+	</wave>
+	<wave count='1' chainDist='1200' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyGen
+	</wave>
+	<wave count='4' chainDist='600' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyMoverFast,enemyMoverFast,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true}'>
+		enemyMover,enemyMoverFast,enemyMoverFast,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true}'>
+		enemyShooterSide,enemyBlob
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyMoverFat,enemyMover,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyMoverFat,enemyMoverFat,enemyMover,enemyShooter
+	</wave>
+	<wave count='6' chainDist='700' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true}'>
+		enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='6' chainDist='700' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='diagLoopFull' options='{"disableAccDec":true}'>
+		enemyMover,enemyMoverFat,enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='800' typeWayPoints='topCirlcleAndOut' options='{"mirrorX":false}'>
+		enemyGen
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyBlob
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorY":true}'>
+		enemyBlob
+	</wave>
+	<wave count='6' chainDist='500' typeWayPoints='horiz8' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMoverFat,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='6' chainDist='500' typeWayPoints='horiz8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMoverFat,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='400' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMover,enemyMover
+	</wave>
+	<wave count='4' chainDist='400' typeWayPoints='topCornerAndLtoR' options='{"mirrorX":true,"disableAccDec":true}'>
+		enemyShooter,enemyMover,enemyMover
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='pinetree' options='{"disableAccDec":true}'>
+		enemyGen,enemyBlob,enemyMover,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='2' chainDist='600' typeWayPoints='topShootTriple' options='{}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='600' typeWayPoints='topShootSpike' options='{}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='600' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='9' chainDist='250' typeWayPoints='fullWaveVert' options='{"disableAccDec":true}'>
+		enemyMoverFast,enemyMoverFast,enemyShooter
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='centerArc' options='{"disableAccDec":true}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='centerArc' options='{"mirrorX":true,"disableAccDec":true}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='1' chainDist='600' typeWayPoints='topShootTriple' options='{"originOffsetY":-1500}'>
+		enemyLeaf
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyBlob,enemyMoverFast,enemyShooter,enemyMoverFast,enemyBlob
+	</wave>
+	<wave count='15' chainDist='300' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMoverFast
+	</wave>
+	<wave count='30' chainDist='30' typeWayPoints='FullInfLike8' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMover
+	</wave>
+	<wave count='1' chainDist='1200' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='1200' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyLeaf
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMoverFast,enemyShooter,enemyMoverFast,enemyShooter,enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":true}'>
+		enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":false}'>
+		enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='100' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyBlob,enemyMover,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='5' chainDist='100' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyBlob,enemyMover,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='1' chainDist='200' typeWayPoints='fromTopCenterTrio' options='{"disableAccDec":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='sideMove' options='{"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='sideMove' options='{"mirrorX":true,"mirrorY":true,"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{}'>
+		enemyGen,enemyMoverFat,enemyMoverFat,enemyMover
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMover,enemyShooter,enemyMover
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterAdv,enemyMover,enemyShooter,enemyMover
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCircleAndRtoL' options='{"disableAccDec":true}'>
+		enemyMoverFat,enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCircleAndRtoL' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='2' chainDist='900' typeWayPoints='topShootSpike' options='{}'>
+		enemyShooterAdv,enemyBlob
+	</wave>
+	<wave count='2' chainDist='900' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyShooterAdv,enemyBlob
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverFat,enemyMoverFat,enemyMoverFat
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='FullInfLike8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterSide,enemyLeaf,enemyShooterSide
+	</wave>
+	<wave count='3' chainDist='200' typeWayPoints='FullInfLike8' options='{"disableAccDec":true}'>
+		enemyGen,enemyShooterAdv,enemyGen
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true}'>
+		enemyMover,enemyMover,enemyMover,enemyLaser,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"wpOffsetX":30}'>
+		enemyMover,enemyMover,enemyMover,,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"wpOffsetX":-30}'>
+		enemyMover,enemyMover,enemyMover,,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='10' chainDist='250' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"wpOffsetX":200}'>
+		enemyLeaf,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='2' chainDist='2000' typeWayPoints='toScreenCenterShoot' options='{"wpOffsetX":-400}'>
+		enemyBlob
+	</wave>
+	<wave count='2' chainDist='2000' typeWayPoints='toScreenCenterShoot' options='{"wpOffsetX":400}'>
+		enemyBlob
+	</wave>
+	<wave count='10' chainDist='40' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFast
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='sideFlagLike' options='{}'>
+		enemyShooterSide
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='100' typeWayPoints='fromTopCenterTrio' options='{}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='9' chainDist='100' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyMoverFast
+	</wave>
+	<wave count='9' chainDist='100' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyMover,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{}'>
+		enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyShooterSide,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyShooterSide,enemyShooter,enemyShooter,enemyShooter
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"mirrorX":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='11' chainDist='50' typeWayPoints='pinetree' options='{"disableAccDec":true}'>
+		enemyLaser,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyBomber,enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topCircleAndRtoL' options='{}'>
+		enemyGen
+	</wave>
+	<wave count='15' chainDist='50' typeWayPoints='FullInfLike8' options='{"disableAccDec":true}'>
+		enemyShooter,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='15' chainDist='50' typeWayPoints='FullInfLike8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true}'>
+		enemyBomber,enemyShooter,enemyShooter,enemyMoverFast,enemyBomber
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyBlob,enemyLeaf,enemyLeaf,enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFat,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyLeaf,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyMover,enemyGen
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='horiz8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLaser
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"wpPlusMirrorX":true}'>
+		enemyShooterSide,enemyLeaf,enemyLeaf,enemyShooterSide
+	</wave>
+	<wave count='5' chainDist='600' typeWayPoints='topShootSpike' options='{}'>
+		enemyShooter,enemyShooter,enemyGen,enemyShooter,enemyShooter
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='fromTopCenterTrio' options='{"mirrorX":false,"wpOffsetX":100}'>
+		enemyLeaf,enemyShooterAdv
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='fromTopCenterTrio' options='{"mirrorX":true,"wpOffsetX":100}'>
+		enemyLeaf,enemyShooterAdv
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true}'>
+		enemyBlob,enemyShooter,enemyShooter
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyBlob,enemyBlob,enemyBomber,enemyBomber,enemyShooterAdv
+	</wave>
+	<wave count='10' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"wpPlusMirrorY":true}'>
+		enemyMover,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='10' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyMover,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topTriangleCenter' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyLaser,enemyLeaf
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyLeaf
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyGen,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='900' typeWayPoints='fromTopCenterTrio' options='{"wpOffsetY":100}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideMove' options='{"disableAccDec":true}'>
+		enemyBomber
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='sideMove' options='{"disableAccDec":true,"mirrorX":true,"mirrorY":true}'>
+		enemyBomber
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyBlob,enemyBlob,enemyBlob,enemyGen
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='LeftSquareLoopAndBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyShooter,enemyMover,enemyMoverFat
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='LeftSquareLoopAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyMover,enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='1300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='1300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='diagLoopFull' options='{"disableAccDec":true}'>
+		enemyWorm
+	</wave>
+	<wave count='10' chainDist='500' typeWayPoints='centerArc' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyShooterAdv,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyShooterAdv
+	</wave>
+	<wave count='13' chainDist='300' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyBomber
+	</wave>
+	<wave count='13' chainDist='300' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyBomber
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='centerArc' options='{"disableAccDec":true}'>
+		enemyBird,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover,enemyMover
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyLeaf
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyMover,enemyMover,enemyMover,enemyMoverFat
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFat,enemyMover,enemyMover,enemyMover,enemyMoverFat
+	</wave>
+	<wave count='12' chainDist='400' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyLaser
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyLaser
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{}'>
+		enemyLeaf,enemyLeaf,enemyShooterAdv,enemyShooterAdv
+	</wave>
+	<wave count='8' chainDist='60' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyShooterSide,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooterSide
+	</wave>
+	<wave count='8' chainDist='60' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterSide,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooter,enemyShooterSide
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyGen,enemyMoverFat
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fullWaveVert' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyGen,enemyMoverFat
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='centerArc' options='{"disableAccDec":true}'>
+		enemyMover,enemyShooter
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='centerArc' options='{"mirrorX":true,"disableAccDec":true}'>
+		enemyMover,enemyShooter
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"wpOffsetX":-50}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"mirrorX":true,"wpOffsetX":-50}'>
+		enemyLeaf
+	</wave>
+	<wave count='6' chainDist='600' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":-50}'>
+		enemyShooter
+	</wave>
+	<wave count='6' chainDist='600' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetY":50}'>
+		enemyShooter
+	</wave>
+	<wave count='6' chainDist='600' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":50}'>
+		enemyShooter
+	</wave>
+	<wave count='1' chainDist='500' typeWayPoints='sideMove' options='{"disableAccDec":true}'>
+		enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='500' typeWayPoints='sideMove' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{}'>
+		enemyGen
+	</wave>
+	<wave count='12' chainDist='90' typeWayPoints='fullWaveHorz' options='{"mirrorX":true,"disableAccDec":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"wpOffsetX":-100}'>
+		enemyBlob,enemyBlob
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":-100}'>
+		enemyBlob,enemyBlob
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyWorm
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyWorm
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{"disableAccDec":false,"mirrorX":true}'>
+		enemyBomber
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{}'>
+		enemyBird
+	</wave>
+	<wave count='14' chainDist='100' typeWayPoints='screenBigCircle' options='{"disableAccDec":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='400' typeWayPoints='LtoRPlusRingAndBack' options='{"mirrorX":true}'>
+		enemyShooterAdv,enemyBlob,enemyBlob,enemyBlob,enemyShooterAdv
+	</wave>
+	<wave count='7' chainDist='500' typeWayPoints='sideMove' options='{"disableAccDec":true,"wpPlusMirrorX":true}'>
+		enemyShooterSide,enemyShooterSide,enemyShooterSide,enemyBird,enemyShooterSide,enemyShooterSide,enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyBlob,enemyLeaf,enemyLeaf,enemyLeaf,enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{"wpOffsetX":-300}'>
+		enemyGen
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{"wpOffsetX":300}'>
+		enemyGen
+	</wave>
+	<wave count='2' chainDist='2500' typeWayPoints='sideFlagLike' options='{"mirrorY":false,"wpOffsetY":-100}'>
+		enemyShooterSide
+	</wave>
+	<wave count='2' chainDist='2500' typeWayPoints='sideFlagLike' options='{"mirrorX":true,"mirrorY":false,"wpOffsetY":-100}'>
+		enemyShooterSide
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='topTriangleCenter' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyShooterAdv,enemyMoverFat
+	</wave>
+	<wave count='6' chainDist='200' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorY":true,"wpOffsetX":100,"wpPlusMirrorY":true}'>
+		enemyLaser,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='6' chainDist='200' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":100,"wpPlusMirrorY":true}'>
+		enemyLaser,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyMoverFast
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"wpOffsetX":-50}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{}'>
+		enemyMoverFat
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"mirrorX":true,"wpOffsetX":-50}'>
+		enemyMoverFat
+	</wave>
+	<wave count='10' chainDist='100' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='10' chainDist='100' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyMover
+	</wave>
+	<wave count='12' chainDist='300' typeWayPoints='horiz8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooter,enemyBlob,enemyMover
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='topCircleAndBack' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyLeaf,enemyMoverFat,enemyMoverFat
+	</wave>
+	<wave count='12' chainDist='90' typeWayPoints='horiz8' options='{"disableAccDec":true}'>
+		enemyMoverFast
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true}'>
+		enemyGen,enemyMover,enemyGen,enemyMover,enemyGen
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true}'>
+		enemyBird,enemyBlob,enemyBlob,enemyBlob
+	</wave>
+	<wave count='8' chainDist='500' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyBlob,enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='900' typeWayPoints='fromTopCenterTrio' options='{"originOffsetY":-500,"mirrorX":true}'>
+		enemyLaser
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyShooterSide,enemyLeaf
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyShooterSide,enemyLeaf
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"wpOffsetX":-30}'>
+		enemyMoverArmor,enemyShooter
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":-30}'>
+		enemyMoverArmor,enemyShooter
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='toScreenCenterShoot' options='{}'>
+		enemyGen,enemyBird
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='centerShootY' options='{"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='1' chainDist='0' typeWayPoints='centerShootY' options='{"mirrorX":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverArmor,enemyMoverFat,enemyMoverFat,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"wpOffsetY":400}'>
+		enemyShooterAdv,enemyMoverArmor,enemyMoverFat,enemyMoverFat,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyWorm,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyWorm,enemyMoverFast,enemyMoverFast,enemyMoverFast,enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":-100}'>
+		enemyShooterArmor,enemyShooterArmor,enemyShooterAdv,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true,"mirrorX":false,"wpOffsetX":-100}'>
+		enemyShooterArmor,enemyShooterArmor,enemyShooterAdv,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='xBased' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='8' chainDist='200' typeWayPoints='FullInfLike8' options='{"disableAccDec":true}'>
+		enemyBlob,enemyShooterSide,enemyMoverArmor
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true}'>
+		enemyGen,enemyGen,enemyBird
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='diagLoop' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='4' chainDist='800' typeWayPoints='sideMove' options='{"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='800' typeWayPoints='sideMove' options='{"mirrorX":true,"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSide
+	</wave>
+	<wave count='3' chainDist='600' typeWayPoints='topShootSpike' options='{}'>
+		enemyMoverFat
+	</wave>
+	<wave count='3' chainDist='600' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyMoverFat
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyBlob,enemyShooterAdv
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyBlob,enemyShooterAdv
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyBomber,enemyLeaf
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLeaf,enemyBomber,enemyLeaf
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='LeftSquareLoopAndBack' options='{"wpPlusMirrorX":true,"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverArmor,enemyShooterAdv,enemyMoverArmor,enemyLaser
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='xBased' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverArmor,enemyMoverArmor,enemyFirebug,enemyMoverArmor,enemyMoverArmor,enemyShooterAdv
+	</wave>
+	<wave count='8' chainDist='200' typeWayPoints='pinetree' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike' options='{"mirrorX":false}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyWorm
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyWorm
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot_boss' options='{"wpOffsetX":100}'>
+		enemyLaser
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot_boss' options='{"wpOffsetX":-100}'>
+		enemyLaser
+	</wave>
+	<wave count='8' chainDist='200' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyMoverArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='8' chainDist='200' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyMoverArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='10' chainDist='100' typeWayPoints='topCirlcleAndOut' options='{"wpOffsetX":100,"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyMoverFastArmor,enemyShooterArmor,enemyMoverArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='10' chainDist='100' typeWayPoints='topCirlcleAndOut' options='{"wpOffsetX":100,"disableAccDec":true,"mirrorX":false,"wpPlusMirrorY":true}'>
+		enemyMoverFastArmor,enemyShooterArmor,enemyMoverArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='2' chainDist='2300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyBlob
+	</wave>
+	<wave count='2' chainDist='2300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyBlob
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='roundCenterAndBack' options='{}'>
+		enemyMoverArmor,enemyMoverFat,enemyShooterArmor
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterArmor,enemyShooterArmor,enemyShooterSide,enemyGen,enemyShooterSide,enemyShooterArmor
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='screenBigCircle' options='{"disableAccDec":true}'>
+		enemyShooterSide,enemyMoverArmor,enemyBomber,enemyMoverArmor,enemyMoverArmor,enemyBomber
+	</wave>
+	<wave count='7' chainDist='100' typeWayPoints='horiz8' options='{"disableAccDec":true}'>
+		enemyMoverFastArmor
+	</wave>
+	<wave count='4' chainDist='250' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyMoverFastArmor,enemyMoverFastArmor,enemyLeaf
+	</wave>
+	<wave count='4' chainDist='250' typeWayPoints='fromTopCenterAndDiagBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLeaf,enemyMoverFastArmor,enemyMoverFastArmor,enemyLeaf
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='2' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorX":false}'>
+		enemyMoverFat,enemyBlob,enemyMoverFat
+	</wave>
+	<wave count='3' chainDist='2' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"mirrorY":false,"wpPlusMirrorX":false}'>
+		enemyMoverFat,enemyBlob,enemyMoverFat
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyShooterAdv,enemyBird,enemyBomber
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyShooterAdv,enemyLaser,enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorX":true}'>
+		enemyGen,enemyGen,enemyShooterSide,enemyShooterSide,enemyLeaf
+	</wave>
+	<wave count='6' chainDist='200' typeWayPoints='xBased' options='{"disableAccDec":true}'>
+		enemyBird,enemyBird,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"originOffsetY":-1500,"disableAccDec":false}'>
+		enemyLaser
+	</wave>
+	<wave count='10' chainDist='200' typeWayPoints='screenBigCircle' options='{"disableAccDec":true,"wpOffsetY":200}'>
+		enemyMoverFastArmor,enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='500' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":true}'>
+		enemyShooterArmor,enemyShooterArmor,enemyWorm
+	</wave>
+	<wave count='3' chainDist='500' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":false}'>
+		enemyShooterArmor,enemyShooterArmor,enemyWorm
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot_boss' options='{"wpOffsetX":50}'>
+		enemyBomber
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot_boss' options='{"wpOffsetX":50,"mirrorX":true}'>
+		enemyBomber
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterArmor,enemyShooterArmor,enemyGen,enemyShooterArmor,enemyShooterArmor
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyShooterArmor,enemyShooterArmor,enemyGen,enemyShooterArmor,enemyShooterArmor
+	</wave>
+	<wave count='5' chainDist='400' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"wpPlusMirrorX":true}'>
+		enemyFirebug,enemyBlob,enemyBlob,enemyBlob,enemyFirebug
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"wpPlusMirrorX":true}'>
+		enemyShooterSide,enemyShooterArmor,enemyShooterArmor,enemyBomber,enemyShooterSide
+	</wave>
+	<wave count='4' chainDist='300' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorX":true}'>
+		enemyShooterSide,enemyShooterArmor,enemyShooterArmor,enemyGen,enemyShooterSide
+	</wave>
+	<wave count='10' chainDist='50' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"mirrorX":false,"wpPlusMirrorY":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootSquare' options='{"mirrorX":true,"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='fullXAndHalf' options='{"wpPlusMirrorX":true,"disableAccDec":true}'>
+		enemyLaser,enemyBird,enemyLaser
+	</wave>
+	<wave count='7' chainDist='100' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor
+	</wave>
+	<wave count='3' chainDist='400' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFat,enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='400' typeWayPoints='topW' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyMoverFat,enemyShooterArmor
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='xBased' options='{"disableAccDec":true,"wpPlusMirrorX":true,"wpPlusMirrorY":true}'>
+		enemyMoverFastArmor,enemyMoverFastArmor,enemyBird,enemyBird,enemyMoverFastArmor,enemyMoverFastArmor,enemyGen,enemyMoverFastArmor
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"wpOffsetX":-200,"mirrorX":true}'>
+		enemyLeaf,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='LtoRAndTinyLoopBack' options='{"disableAccDec":true,"wpOffsetX":-200,"mirrorX":false}'>
+		enemyLeaf,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='8' chainDist='700' typeWayPoints='fullWaveVert' options='{"disableAccDec":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"wpOffsetX":-50}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='toScreenCenterShoot' options='{}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='topShootTriple' options='{"mirrorX":true,"wpOffsetX":-50}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='10' chainDist='90' typeWayPoints='fullWaveHorz' options='{"mirrorX":true,"disableAccDec":true}'>
+		enemyBomber,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyBomber
+	</wave>
+	<wave count='6' chainDist='700' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true}'>
+		enemyMoverFastArmor,enemyMoverArmor
+	</wave>
+	<wave count='6' chainDist='700' typeWayPoints='topCirlcleAndOut' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor,enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='5' chainDist='100' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyWorm,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='5' chainDist='100' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyGen,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='2300' typeWayPoints='sideFlagLike' options='{"mirrorY":true}'>
+		enemyShooterSideArmor
+	</wave>
+	<wave count='1' chainDist='2300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyShooterSideArmor
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='roundCenterAndBack' options='{}'>
+		enemyMoverFastArmor,enemyBlob,enemyMoverFastArmor
+	</wave>
+	<wave count='7' chainDist='150' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":true,"mirrorX":true,"wpPlusMirrorX":true}'>
+		enemyShooterArmor,enemyShooterArmor,enemyShooterArmor,enemyShooterArmor,enemyShooterArmor
+	</wave>
+	<wave count='7' chainDist='150' typeWayPoints='fullWaveVert' options='{"wpOffsetX":-200,"disableAccDec":true,"mirrorY":false,"wpPlusMirrorX":true}'>
+		enemyShooterArmor,enemyShooterArmor,enemyShooterArmor,enemyShooterArmor,enemyShooterArmor
+	</wave>
+	<wave count='12' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true}'>
+		enemyBlob,enemyShooterArmor
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='LeftSquareLoopAndBack' options='{"disableAccDec":true,"wpPlusMirrorX":true}'>
+		enemyShooterAdv,enemyShooterAdv,enemyBomber,enemyBomber
+	</wave>
+	<wave count='8' chainDist='80' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLaser,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='8' chainDist='80' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyLaser,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true}'>
+		enemyMoverFastArmor,enemyShooterArmor
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='topCornerAndLtoR' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor,enemyShooterArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{"mirrorX":true,"wpOffsetY":200,"wpOffsetX":100}'>
+		enemyBird
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fromTopCenterTrio' options='{"mirrorX":false,"wpOffsetY":200,"wpOffsetX":100}'>
+		enemyBird
+	</wave>
+	<wave count='12' chainDist='300' typeWayPoints='horiz8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterAdv,enemyMoverArmor,enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='900' typeWayPoints='fromTopCenterTrio' options='{"originOffsetY":-500,"mirrorX":true}'>
+		enemyFirebug
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='sideFlagLike' options='{}'>
+		enemyMoverFatArmor,enemyShooterSideArmor
+	</wave>
+	<wave count='2' chainDist='1300' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyMoverFatArmor,enemyShooterSideArmor
+	</wave>
+	<wave count='3' chainDist='1600' typeWayPoints='topShootSpike' options='{}'>
+		enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='1600' typeWayPoints='topShootSpike' options='{"mirrorX":true}'>
+		enemyShooterArmor
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyBlob,enemyBomber
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyBlob,enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverArmor,enemyShooterArmor,enemyMoverArmor
+	</wave>
+	<wave count='3' chainDist='2500' typeWayPoints='topW' options='{"disableAccDec":true}'>
+		enemyMoverFatArmor
+	</wave>
+	<wave count='8' chainDist='100' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor
+	</wave>
+	<wave count='8' chainDist='100' typeWayPoints='diagLoopFull' options='{"disableAccDec":true,"mirrorY":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='2' chainDist='1700' typeWayPoints='fromTopAndLtoR' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyGen
+	</wave>
+	<wave count='1' chainDist='200' typeWayPoints='turrets' options='{"disableAccDec":true,"mirrorX":false}'>
+		enemyBug
+	</wave>
+	<wave count='1' chainDist='200' typeWayPoints='turrets' options='{"disableAccDec":true,"mirrorX":true,"mirrorY":true}'>
+		enemyBug
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='screenBigCircle' options='{"disableAccDec":true}'>
+		enemyShooterSideArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyShooterSideArmor
+	</wave>
+	<wave count='7' chainDist='100' typeWayPoints='horiz8' options='{"disableAccDec":true}'>
+		enemyShooterArmor
+	</wave>
+	<wave count='3' chainDist='900' typeWayPoints='topCircleAndRtoL' options='{}'>
+		enemyMoverFatArmor,enemyShooterAdv,enemyMoverFatArmor
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverArmor,enemyBlob,enemyMoverArmor
+	</wave>
+	<wave count='3' chainDist='2300' typeWayPoints='fromTopCenterTrio' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLeaf
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyLaser,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyLaser
+	</wave>
+	<wave count='9' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyGen,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyLeaf
+	</wave>
+	<wave count='9' chainDist='300' typeWayPoints='squareLoopExt' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetY":100}'>
+		enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyGen,enemyMoverArmor,enemyMoverArmor,enemyMoverArmor,enemyLeaf
+	</wave>
+	<wave count='1' chainDist='2300' typeWayPoints='toScreenCenterShoot' options='{"wpOffsetX":50}'>
+		enemyBug
+	</wave>
+	<wave count='8' chainDist='120' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorY":true,"wpPlusMirrorY":true}'>
+		enemyMoverArmor,enemyShooterArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='8' chainDist='120' typeWayPoints='roundCenterAndBack' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorY":true}'>
+		enemyMoverArmor,enemyShooterArmor,enemyMoverArmor,enemyBlob
+	</wave>
+	<wave count='8' chainDist='800' typeWayPoints='fullXAndHalf' options='{"disableAccDec":true}'>
+		enemyBomber,enemyShooterSideArmor,enemyMoverArmor,enemyShooterSideArmor,enemyShooterAdv,enemyShooterSideArmor,enemyMoverArmor,enemyBomber
+	</wave>
+	<wave count='5' chainDist='300' typeWayPoints='LeftSquareLoopAndBack' options='{"wpPlusMirrorX":true,"disableAccDec":true}'>
+		enemyMoverFatArmor,enemyMover,enemyMoverFatArmor,enemyMover,enemyShooterSideArmor
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyShooterArmor,enemyMoverArmor,enemyShooterArmor,enemyMoverArmor,enemyShooterArmor,enemyMoverArmor
+	</wave>
+	<wave count='6' chainDist='1200' typeWayPoints='halfWaveVert' options='{"disableAccDec":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='6' chainDist='1200' typeWayPoints='halfWaveVert' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyMoverArmor
+	</wave>
+	<wave count='1' chainDist='2800' typeWayPoints='sideMove' options='{"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSideArmor
+	</wave>
+	<wave count='1' chainDist='2800' typeWayPoints='sideMove' options='{"mirrorX":true,"disableAccDec":true,"wpOffsetY":0}'>
+		enemyShooterSideArmor
+	</wave>
+	<wave count='2' chainDist='300' typeWayPoints='horiz8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyLaser
+	</wave>
+	<wave count='8' chainDist='70' typeWayPoints='FullInfLike8' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='8' chainDist='70' typeWayPoints='FullInfLike8' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyShooterAdv,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='fullWaveHorz' options='{"disableAccDec":true,"mirrorX":false,"wpOffsetY":-200}'>
+		enemyWorm
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='squareLoop' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyBird,enemyMoverArmor,enemyMoverArmor,enemyShooterArmor,enemyMoverArmor,enemyMoverArmor,enemyShooterArmor,enemyShooterArmor
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":false,"wpOffsetX":-200}'>
+		enemyLaser,enemyLaser,enemyShooterArmor,enemyShooterArmor,enemyMoverFastArmor,enemyShooterArmor,enemyShooterArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='8' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true,"mirrorX":false,"wpOffsetX":-400}'>
+		enemyLaser,enemyLaser,enemyShooterArmor,enemyShooterArmor,enemyMoverFastArmor,enemyShooterArmor,enemyShooterArmor,enemyMoverFastArmor
+	</wave>
+	<wave count='5' chainDist='150' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"wpOffsetX":-100}'>
+		enemyMoverArmor,enemyBlob,enemyMoverArmor,enemyBomber
+	</wave>
+	<wave count='5' chainDist='150' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpOffsetX":-100}'>
+		enemyMoverArmor,enemyBlob,enemyMoverArmor,enemyBomber
+	</wave>
+	<wave count='5' chainDist='200' typeWayPoints='squareLoop' options='{"disableAccDec":true}'>
+		enemyShooterAdv,enemyMoverFastArmor,enemyShooterAdv,enemyMoverFastArmor,enemyShooterAdv
+	</wave>
+	<wave count='2' chainDist='5700' typeWayPoints='topShootSpike' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":true}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='2' chainDist='5700' typeWayPoints='topShootSpike' options='{"disableAccDec":true,"wpOffsetY":200,"mirrorX":false}'>
+		enemyShooterAdv
+	</wave>
+	<wave count='1' chainDist='300' typeWayPoints='centerArc' options='{"wpOffsetX":50}'>
+		enemyGen2
+	</wave>
+	<wave count='7' chainDist='300' typeWayPoints='fromCenterLeftToTopAndReturn' options='{"disableAccDec":true}'>
+		enemyBlob,enemyShooterArmor,enemyShooterArmor,enemyBlob
+	</wave>
+	<wave count='1' chainDist='2300' typeWayPoints='sideFlagLike' options='{"wpOffsetX":100}'>
+		enemyLeaf,enemyBlob
+	</wave>
+	<wave count='1' chainDist='2300' typeWayPoints='sideFlagLike' options='{"wpOffsetX":100,"mirrorX":true}'>
+		enemyLeaf,enemyBlob
+	</wave>
+	<wave count='3' chainDist='1500' typeWayPoints='halfRectFromTop' options='{"disableAccDec":true,"mirrorX":true,"wpPlusMirrorX":true}'>
+		enemyShooterAdv,enemyShooterAdv,enemyShooterAdv
+	</wave>
+	<wave count='3' chainDist='200' typeWayPoints='LtoRPlusRingAndBack' options='{"disableAccDec":true,"mirrorX":true}'>
+		enemyWorm
+	</wave>
+	<wave count='3' chainDist='300' typeWayPoints='topTriangleCenter' options='{"disableAccDec":true}'>
+		enemyLeaf,enemyMoverFastArmor,enemyLeaf
+	</wave>
+	<wave count='6' chainDist='300' typeWayPoints='diagLoop' options='{"disableAccDec":true}'>
+		enemyMoverArmor,enemyShooterSideArmor,enemyMoverArmor,enemyShooterSideArmor,enemyMoverArmor,enemyShooterSideArmor
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike_2' options='{"mirrorX":true,"wpOffsetY":-200}'>
+		enemyBug
+	</wave>
+	<wave count='1' chainDist='1600' typeWayPoints='topShootSpike_2' options='{"mirrorX":false,"wpOffsetY":-200}'>
+		enemyBug
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='sideFlagLike' options='{}'>
+		enemyGen
+	</wave>
+	<wave count='2' chainDist='1200' typeWayPoints='sideFlagLike' options='{"mirrorX":true}'>
+		enemyGen
+	</wave>
+	<wave count='0' chainDist='0' typeWayPoints='' options='{}'>
+		
+	</wave>
+</abyssData>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+	<title>Super Utilizer</title>
+	
+	<style>
+		html{
+			padding: 0px;
+			margin: 0px;
+			background-color: #333333;
+			overflow: hidden;
+		}
+		body {
+			padding: 0px;
+			margin: 0px;
+		}
+		canvas {
+			display: block;
+			padding: 0px;
+			margin: 0px;
+			background-color: #333333;
+            width: 100%;
+            height: 100%;
+		}
+	</style>
+
+
+	<script>
+			function initSDK()
+			{
+
+			}
+	</script>
+
+	<script>
+
+		window.inited = false;
+
+		function isAllDone()
+		{
+			return window.inited;
+		}
+
+		function init()
+		{
+			window.inited = true;
+
+			document.documentElement.style.padding = "0";
+			document.documentElement.style.margin = "0";
+			document.body.style.padding = "0";
+			document.body.style.margin = "0";
+			let canvas = document.getElementById("utilizer-canvas");
+			canvas.style.display = "block";
+
+			let resize = function() 
+			{
+				let w = window.innerWidth;
+				let h = window.innerHeight;
+
+				let devicePixelRatio = window.devicePixelRatio || 1;
+				canvas.width = Math.round(w * devicePixelRatio);
+				canvas.height = Math.round(h * devicePixelRatio);
+				canvas.style.width = w + 'px';
+				canvas.style.height = h + 'px';
+
+				window.realWidth = canvas.width;
+				window.realHeight = canvas.height;
+			}
+			window.onresize = resize;
+			resize();
+		}
+
+
+	</script>
+</head>
+<body onload = "init()">
+	<canvas id="utilizer-canvas" tabindex="-1"></canvas>
+	<script src="utilizer.js"></script>
+</body>
+</html>

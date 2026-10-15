@@ -1,0 +1,20 @@
+<cluster name='Ergo' id='6' color="#a475d4" lastId="7"   needStars="80">
+	<marks>
+		<mark x='-283' y='-161' id='1'  fullNum='31'/>
+		<mark x='-98' y='-115' id='2'  fullNum='32'/>
+		<mark x='-237' y='129' id='3'  fullNum='33' type="bonus" skipNext="true"/>
+		<mark x='-18' y='68' id='4'  fullNum='34'/>
+		<mark x='141' y='196' id='5'  fullNum='35'/>
+		<mark x='271' y='15' id='6'  fullNum='36'/>
+		<mark x='188' y='-181' id='7'  fullNum='37' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='2' to='4'/>
+		<line from='4' to='5'/>
+		<line from='5' to='6'/>
+		<line from='6' to='7'/>
+	</lines>
+</cluster>
+

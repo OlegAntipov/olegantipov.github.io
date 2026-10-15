@@ -1,0 +1,13 @@
+<cluster name='Celestia' id='1' color="#FF2EC4F6" lastId="4" needStars="0">
+	<marks>
+		<mark x='-305' y='48' id='1' fullNum='1'/>
+		<mark x='-49' y='-48' id='2' fullNum='2'/>
+		<mark x='161' y='-178' id='3' fullNum='3'/>
+		<mark x='289' y='61' id='4'  fullNum='4' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='3' to='4'/>
+	</lines>
+</cluster>

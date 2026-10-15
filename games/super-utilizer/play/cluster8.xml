@@ -1,0 +1,15 @@
+<cluster name='LastCluster' id='8' color="#667766" lastId="0"   needStars="125">
+	<marks>
+		<mark x='-450' y='0' id='1'  fullNum='45'/>	
+		<mark x='-225' y='0' id='2'  fullNum='46'/>
+		<mark x='0' y='0' id='3'  fullNum='47'/>
+		<mark x='225' y='0' id='4'  fullNum='48'/>
+		<mark x='450' y='0' id='5'  fullNum='49'/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='3' to='4'/>
+		<line from='4' to='5'/>
+	</lines>
+</cluster>

@@ -1,0 +1,17 @@
+<cluster name='Ikar' id='3' color="#FFC7A438" lastId="6"   needStars="20">
+	<marks>
+		<mark x='-285' y='-21' id='1'  fullNum='11'/>
+		<mark x='-236' y='221' id='2'  fullNum='12'/>
+		<mark x='-30' y='111' id='3'  fullNum='13'/>
+		<mark x='11' y='-175' id='4'  fullNum='14' type="invaders" skipNext="true"/>
+		<mark x='227' y='-14' id='5'  fullNum='15'/>
+		<mark x='292' y='228' id='6'   fullNum='16' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='3' to='4'/>
+		<line from='3' to='5'/>
+		<line from='5' to='6'/>
+	</lines>
+</cluster>

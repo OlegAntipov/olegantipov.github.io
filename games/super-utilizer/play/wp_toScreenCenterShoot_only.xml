@@ -1,0 +1,8 @@
+<wayPoints>
+<point x="270" y="-250" speed="-1" time="-1"/>
+<point x="270" y="300" speed="-1" time="3"/>
+<point x="170" y="-450" speed="-1" time="-1"/>
+<point x="170" y="300" speed="-1" time="3"/>
+<point x="370" y="-450" speed="-1" time="-1"/>
+<point x="370" y="300" speed="-1" time="3"/>
+</wayPoints>

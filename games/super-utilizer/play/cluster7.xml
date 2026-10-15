@@ -1,0 +1,19 @@
+<cluster name='Hortus' id='7' color="#e04d4d" lastId="7"   needStars="99">
+	<marks>
+		<mark x='-155' y='-201' id='1'  fullNum='38'/>
+		<mark x='174' y='-185' id='2'  fullNum='39'/>
+		<mark x='257' y='6' id='3'  fullNum='40'/>
+		<mark x='200' y='210' id='4'  fullNum='41' type="invaders" skipNext="true"/>
+		<mark x='2' y='53' id='5'  fullNum='42'/>
+		<mark x='-250' y='42' id='6'  fullNum='43'/>
+		<mark x='-183' y='227' id='7'  fullNum='44' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='3' to='4'/>
+		<line from='3' to='5'/>
+		<line from='5' to='6'/>
+		<line from='6' to='7'/>
+	</lines>
+</cluster>

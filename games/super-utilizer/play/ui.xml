@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:7003f4d23e350e5af24e8c8562c985a4:6186a5c695c6402942b054ac6e6285c9:0dbeed7acf6c3264861a2e70e992bcae$ -->
+<TextureAtlas imagePath="ui.png" width="2048" height="2048">
+    <SubTexture name="blackBG" x="1875" y="387" width="10" height="10"/>
+    <SubTexture name="blackHoleSpt" x="1023" y="107" width="332" height="337"/>
+    <SubTexture name="blank" x="1999" y="786" width="30" height="30"/>
+    <SubTexture name="blockCoinsIcon" x="139" y="597" width="109" height="52"/>
+    <SubTexture name="blockMega1Icon" x="375" y="871" width="70" height="70"/>
+    <SubTexture name="blockMega2Icon" x="1203" y="913" width="70" height="70"/>
+    <SubTexture name="blockMega3Icon" x="1198" y="1284" width="70" height="70"/>
+    <SubTexture name="blockMega4Icon" x="1111" y="1289" width="70" height="70"/>
+    <SubTexture name="blockMegaChanceIcon" x="140" y="485" width="109" height="110"/>
+    <SubTexture name="blueFade" x="603" y="399" width="30" height="90"/>
+    <SubTexture name="bonusCoinsIcon" x="1896" y="1274" width="88" height="87"/>
+    <SubTexture name="bonusCoinX2Icon" x="1805" y="1281" width="88" height="87"/>
+    <SubTexture name="bonusDmgX2Icon" x="1895" y="1363" width="88" height="87"/>
+    <SubTexture name="bonusIcon" x="579" y="583" width="53" height="57"/>
+    <SubTexture name="bonusSameIcon" x="1803" y="1370" width="88" height="87"/>
+    <SubTexture name="bonusShieldIcon" x="1893" y="1452" width="88" height="87"/>
+    <SubTexture name="bonusSplitIcon" x="773" y="975" width="88" height="87"/>
+    <SubTexture name="bossIcon" x="951" y="499" width="46" height="58"/>
+    <SubTexture name="btnCloudBAD" x="717" y="1199" width="83" height="65"/>
+    <SubTexture name="btnCloudOK" x="571" y="1256" width="83" height="65"/>
+    <SubTexture name="btnCog" x="1808" y="714" width="63" height="62"/>
+    <SubTexture name="btnNext" x="1540" y="1198" width="89" height="98"/>
+    <SubTexture name="btnPlus" x="391" y="483" width="59" height="58"/>
+    <SubTexture name="btnPrev" x="1805" y="1181" width="89" height="98"/>
+    <SubTexture name="circleHole" x="1900" y="287" width="140" height="139"/>
+    <SubTexture name="coin" x="573" y="971" width="57" height="54"/>
+    <SubTexture name="combine_1Icon" x="387" y="603" width="58" height="57"/>
+    <SubTexture name="combine_2Icon" x="139" y="651" width="109" height="32"/>
+    <SubTexture name="combine_3Icon" x="1254" y="548" width="98" height="103"/>
+    <SubTexture name="combine_4Icon" x="1727" y="1216" width="76" height="79"/>
+    <SubTexture name="combine_5Icon" x="1103" y="913" width="98" height="55"/>
+    <SubTexture name="combine_6Icon" x="1198" y="1227" width="76" height="55"/>
+    <SubTexture name="combine_7Icon" x="443" y="1315" width="83" height="58"/>
+    <SubTexture name="combine_8Icon" x="1119" y="1147" width="83" height="58"/>
+    <SubTexture name="combine_9Icon" x="391" y="543" width="58" height="58"/>
+    <SubTexture name="combineIcon" x="861" y="1064" width="84" height="84"/>
+    <SubTexture name="commander" x="2" y="128" width="256" height="253" frameX="0" frameY="-3" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="complIcon" x="1342" y="1286" width="69" height="68"/>
+    <SubTexture name="dialogueBG" x="943" y="698" width="120" height="120"/>
+    <SubTexture name="diamondItem" x="1932" y="2" width="114" height="114"/>
+    <SubTexture name="dist" x="2000" y="637" width="41" height="55" frameX="-7" frameY="0" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="distGold" x="773" y="578" width="42" height="55" frameX="-7" frameY="0" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="dollar" x="410" y="424" width="41" height="57" frameX="-8" frameY="0" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="excl" x="1641" y="419" width="37" height="64" frameX="-16" frameY="-2" frameWidth="67" frameHeight="66"/>
+    <SubTexture name="fader" x="773" y="526" width="50" height="50"/>
+    <SubTexture name="frontGun2Icon" x="128" y="1297" width="105" height="90"/>
+    <SubTexture name="frontGun2LVL2Icon" x="128" y="1204" width="105" height="91"/>
+    <SubTexture name="frontGunIcon" x="1457" y="968" width="102" height="94"/>
+    <SubTexture name="frontGunLVL2Icon" x="1353" y="932" width="102" height="103"/>
+    <SubTexture name="galoCircle" x="832" y="330" width="168" height="167"/>
+    <SubTexture name="galoRay" x="635" y="500" width="136" height="679"/>
+    <SubTexture name="gearsLoad0" x="1865" y="846" width="121" height="114" frameX="-9" frameY="-9" frameWidth="132" frameHeight="125"/>
+    <SubTexture name="gearsLoad1" x="1865" y="962" width="121" height="114" frameX="-9" frameY="-9" frameWidth="132" frameHeight="125"/>
+    <SubTexture name="gearsLoad2" x="1604" y="752" width="122" height="114" frameX="-9" frameY="-9" frameWidth="132" frameHeight="125"/>
+    <SubTexture name="gearsLoad3" x="1480" y="853" width="122" height="113" frameX="-9" frameY="-10" frameWidth="132" frameHeight="125"/>
+    <SubTexture name="gearsLoad4" x="1604" y="868" width="121" height="115" frameX="-9" frameY="-9" frameWidth="132" frameHeight="125"/>
+    <SubTexture name="gradBG" x="646" y="128" width="191" height="21"/>
+    <SubTexture name="heart" x="374" y="943" width="71" height="59"/>
+    <SubTexture name="heartStars" x="374" y="1004" width="71" height="59"/>
+    <SubTexture name="hlpArrow" x="410" y="314" width="41" height="108"/>
+    <SubTexture name="hlpBlast" x="1357" y="107" width="323" height="310"/>
+    <SubTexture name="hlpBlock" x="387" y="662" width="58" height="57"/>
+    <SubTexture name="hlpBlock1" x="387" y="721" width="58" height="57"/>
+    <SubTexture name="hlpBlock2" x="573" y="735" width="58" height="57"/>
+    <SubTexture name="hlpBlock3" x="573" y="794" width="58" height="57"/>
+    <SubTexture name="hlpBlock4" x="573" y="853" width="58" height="57"/>
+    <SubTexture name="hlpCircle" x="1272" y="991" width="79" height="79"/>
+    <SubTexture name="hlpCircle1" x="1272" y="1072" width="79" height="79"/>
+    <SubTexture name="hlpHand" x="251" y="571" width="134" height="203"/>
+    <SubTexture name="hlpHero" x="1357" y="419" width="282" height="59"/>
+    <SubTexture name="hlpMonster" x="640" y="353" width="150" height="145"/>
+    <SubTexture name="hlpShoot" x="1875" y="314" width="20" height="71"/>
+    <SubTexture name="hlpShoot2" x="618" y="221" width="20" height="71"/>
+    <SubTexture name="hlpShoot3" x="618" y="294" width="20" height="71"/>
+    <SubTexture name="interlace" x="1900" y="218" width="11" height="10"/>
+    <SubTexture name="invadersIcon" x="1808" y="623" width="64" height="52"/>
+    <SubTexture name="lifebar" x="1913" y="213" width="128" height="10"/>
+    <SubTexture name="lockIcon" x="951" y="559" width="44" height="43"/>
+    <SubTexture name="lvlCompl" x="1728" y="752" width="77" height="76"/>
+    <SubTexture name="lvlMarker" x="1631" y="1284" width="88" height="88"/>
+    <SubTexture name="lvlUpStar" x="573" y="1027" width="57" height="54"/>
+    <SubTexture name="magnetIcon" x="128" y="1006" width="107" height="103"/>
+    <SubTexture name="mapBG" x="1682" y="107" width="229" height="109"/>
+    <SubTexture name="monsterCoinsIcon" x="253" y="473" width="136" height="96"/>
+    <SubTexture name="noHeart" x="1413" y="1329" width="68" height="55"/>
+    <SubTexture name="optAuthIco" x="1639" y="1193" width="86" height="89"/>
+    <SubTexture name="optBtnBG" x="447" y="685" width="124" height="124"/>
+    <SubTexture name="optCtrl1Ico" x="773" y="910" width="98" height="63"/>
+    <SubTexture name="optCtrl2Ico" x="877" y="894" width="98" height="79"/>
+    <SubTexture name="optGameCenterIco" x="859" y="1187" width="83" height="81"/>
+    <SubTexture name="optGoogleGamesIco" x="1042" y="1076" width="87" height="60"/>
+    <SubTexture name="optMusIco" x="1606" y="670" width="73" height="80"/>
+    <SubTexture name="optPromoIco" x="953" y="1028" width="87" height="86"/>
+    <SubTexture name="optQuaHiIco" x="579" y="642" width="51" height="34"/>
+    <SubTexture name="optQuaLoIco" x="1808" y="500" width="65" height="35"/>
+    <SubTexture name="optRecoverIco" x="1608" y="588" width="72" height="80"/>
+    <SubTexture name="optResetIco" x="1727" y="1134" width="76" height="80"/>
+    <SubTexture name="optSensIco" x="1353" y="1037" width="96" height="73"/>
+    <SubTexture name="optSndIco" x="944" y="1227" width="80" height="68"/>
+    <SubTexture name="optTransEnIco" x="773" y="1064" width="86" height="59"/>
+    <SubTexture name="optTransRuIco" x="1131" y="1085" width="86" height="60"/>
+    <SubTexture name="optVocIco" x="632" y="1181" width="83" height="73" frameX="0" frameY="-9" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="panelSel" x="773" y="751" width="120" height="120"/>
+    <SubTexture name="plus2" x="1270" y="1323" width="69" height="35"/>
+    <SubTexture name="plus3" x="1026" y="1294" width="70" height="35"/>
+    <SubTexture name="plus4" x="1183" y="1356" width="69" height="35"/>
+    <SubTexture name="plus5" x="1445" y="1218" width="70" height="35"/>
+    <SubTexture name="plus6" x="1413" y="1292" width="69" height="35"/>
+    <SubTexture name="plus7" x="1445" y="1255" width="70" height="35"/>
+    <SubTexture name="plus8" x="1484" y="1298" width="69" height="35"/>
+    <SubTexture name="plus9" x="1270" y="1286" width="70" height="35"/>
+    <SubTexture name="plus10" x="1031" y="1175" width="83" height="35"/>
+    <SubTexture name="plus11" x="1808" y="677" width="64" height="35"/>
+    <SubTexture name="plus12" x="944" y="1190" width="83" height="35"/>
+    <SubTexture name="plus13" x="773" y="1125" width="84" height="35"/>
+    <SubTexture name="plus14" x="947" y="1116" width="84" height="35"/>
+    <SubTexture name="plus15" x="859" y="1150" width="84" height="35"/>
+    <SubTexture name="plus16" x="1204" y="1153" width="83" height="35"/>
+    <SubTexture name="plus17" x="773" y="1162" width="84" height="35"/>
+    <SubTexture name="plus18" x="1033" y="1138" width="84" height="35"/>
+    <SubTexture name="plus19" x="945" y="1153" width="84" height="35"/>
+    <SubTexture name="plus20" x="1561" y="985" width="102" height="35"/>
+    <SubTexture name="plus21" x="1204" y="1190" width="83" height="35"/>
+    <SubTexture name="plus22" x="1561" y="1022" width="102" height="35"/>
+    <SubTexture name="plus24" x="1561" y="1059" width="102" height="35"/>
+    <SubTexture name="plus26" x="895" y="820" width="103" height="35"/>
+    <SubTexture name="plus28" x="1170" y="839" width="103" height="35"/>
+    <SubTexture name="plus30" x="1000" y="856" width="102" height="35"/>
+    <SubTexture name="plus32" x="895" y="857" width="102" height="35"/>
+    <SubTexture name="plus34" x="773" y="873" width="102" height="35"/>
+    <SubTexture name="plus36" x="1353" y="858" width="103" height="35"/>
+    <SubTexture name="plus38" x="1353" y="895" width="103" height="35"/>
+    <SubTexture name="plus40" x="1104" y="876" width="102" height="35"/>
+    <SubTexture name="plus42" x="999" y="893" width="102" height="35"/>
+    <SubTexture name="rearGun2Icon" x="1928" y="1090" width="105" height="71"/>
+    <SubTexture name="rearGun2LVL2Icon" x="128" y="1389" width="105" height="73"/>
+    <SubTexture name="rearGunIcon" x="1065" y="760" width="103" height="94"/>
+    <SubTexture name="rearGunLVL2Icon" x="1249" y="653" width="103" height="104"/>
+    <SubTexture name="redFade" x="603" y="491" width="30" height="90"/>
+    <SubTexture name="rocket" x="792" y="353" width="33" height="65"/>
+    <SubTexture name="roundScull" x="839" y="128" width="177" height="200" frameX="-11" frameY="0" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="roundScullGrey" x="646" y="151" width="184" height="200" frameX="-11" frameY="0" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="roundScullMini" x="579" y="678" width="50" height="55" frameX="-5" frameY="0" frameWidth="57" frameHeight="55"/>
+    <SubTexture name="roundStar" x="1682" y="314" width="191" height="184" frameX="-5" frameY="-8" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="roundStarGrey" x="260" y="128" width="191" height="184" frameX="-5" frameY="-8" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="roundStarMini" x="1805" y="1000" width="56" height="54" frameX="-1" frameY="-1" frameWidth="57" frameHeight="55"/>
+    <SubTexture name="scullsIco0" x="573" y="1083" width="57" height="54"/>
+    <SubTexture name="scullsIco1" x="573" y="1139" width="57" height="54"/>
+    <SubTexture name="scullsIco2" x="1807" y="778" width="57" height="54"/>
+    <SubTexture name="scullsIco3" x="1806" y="834" width="57" height="54"/>
+    <SubTexture name="selMarker" x="1988" y="1032" width="56" height="56"/>
+    <SubTexture name="sep" x="792" y="420" width="33" height="8"/>
+    <SubTexture name="shopItem0Ico" x="1900" y="230" width="143" height="55" frameX="-18" frameY="-62" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="shopItem1Ico" x="1928" y="1163" width="104" height="109" frameX="-38" frameY="-35" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="shopItem2Ico" x="1480" y="732" width="122" height="119" frameX="-29" frameY="-30" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="shopItem3Ico" x="2" y="383" width="136" height="155" frameX="-22" frameY="-12" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="shopItem4Ico" x="260" y="314" width="148" height="157" frameX="-16" frameY="-12" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="shopItemAdIco" x="453" y="323" width="148" height="148" frameX="-16" frameY="-16" frameWidth="180" frameHeight="180"/>
+    <SubTexture name="sideGunIcon" x="128" y="911" width="108" height="93"/>
+    <SubTexture name="sideGunLVL2Icon" x="138" y="808" width="108" height="101"/>
+    <SubTexture name="soc0" x="363" y="1065" width="80" height="80"/>
+    <SubTexture name="soc1" x="363" y="1147" width="80" height="80"/>
+    <SubTexture name="soc2" x="363" y="1229" width="80" height="80"/>
+    <SubTexture name="soc3" x="361" y="1311" width="80" height="80"/>
+    <SubTexture name="soc4" x="1721" y="1297" width="80" height="80"/>
+    <SubTexture name="soc5" x="1116" y="1207" width="80" height="80"/>
+    <SubTexture name="soc6" x="1029" y="1212" width="80" height="80"/>
+    <SubTexture name="speedIcon" x="1451" y="1064" width="94" height="61"/>
+    <SubTexture name="starmapLine" x="2042" y="287" width="4" height="178"/>
+    <SubTexture name="starRank" x="2000" y="594" width="42" height="41"/>
+    <SubTexture name="starsIco0" x="1806" y="890" width="57" height="53" frameX="0" frameY="-1" frameWidth="57" frameHeight="54"/>
+    <SubTexture name="starsIco1" x="1806" y="945" width="57" height="53" frameX="0" frameY="-1" frameWidth="57" frameHeight="54"/>
+    <SubTexture name="starsIco2" x="1988" y="846" width="57" height="53" frameX="0" frameY="-1" frameWidth="57" frameHeight="54"/>
+    <SubTexture name="starsIco3" x="1988" y="901" width="57" height="53" frameX="0" frameY="-1" frameWidth="57" frameHeight="54"/>
+    <SubTexture name="styleAlien" x="1808" y="537" width="64" height="84"/>
+    <SubTexture name="styleAsk" x="1988" y="956" width="56" height="74"/>
+    <SubTexture name="styleCat" x="1174" y="985" width="96" height="98"/>
+    <SubTexture name="styleDiamond" x="128" y="1111" width="107" height="91"/>
+    <SubTexture name="styleDice" x="139" y="685" width="108" height="121"/>
+    <SubTexture name="styleEagle" x="1913" y="118" width="129" height="93"/>
+    <SubTexture name="styleEyes" x="1065" y="698" width="120" height="60"/>
+    <SubTexture name="styleGhost" x="1639" y="1096" width="86" height="95"/>
+    <SubTexture name="styleHeart" x="2" y="687" width="134" height="131" frameX="-19" frameY="0" frameWidth="153" frameHeight="131"/>
+    <SubTexture name="styleInvader" x="1187" y="759" width="104" height="78"/>
+    <SubTexture name="styleJoker" x="375" y="780" width="70" height="89"/>
+    <SubTexture name="styleKing" x="1547" y="1096" width="90" height="100"/>
+    <SubTexture name="styleMice" x="1875" y="428" width="164" height="164"/>
+    <SubTexture name="styleMonster" x="140" y="383" width="111" height="100"/>
+    <SubTexture name="styleNone" x="1353" y="1112" width="93" height="94"/>
+    <SubTexture name="styleNuke" x="863" y="975" width="88" height="87"/>
+    <SubTexture name="stylePirate" x="453" y="221" width="163" height="100"/>
+    <SubTexture name="styleScull" x="1608" y="485" width="72" height="101"/>
+    <SubTexture name="styleShark" x="451" y="551" width="126" height="132"/>
+    <SubTexture name="styleShield" x="1076" y="970" width="96" height="104"/>
+    <SubTexture name="styleSmile" x="977" y="930" width="97" height="96"/>
+    <SubTexture name="styleSpider" x="1805" y="1078" width="121" height="101"/>
+    <SubTexture name="styleStar" x="453" y="473" width="148" height="76"/>
+    <SubTexture name="styleSun" x="2" y="540" width="135" height="145"/>
+    <SubTexture name="styleThumbUp" x="1448" y="1127" width="90" height="89"/>
+    <SubTexture name="styleWings" x="453" y="128" width="191" height="91"/>
+    <SubTexture name="TitleSuperEN" x="1682" y="218" width="216" height="46"/>
+    <SubTexture name="TitleSuperRU" x="1682" y="266" width="216" height="46"/>
+    <SubTexture name="TitleUtilizerEN" x="1023" y="2" width="907" height="103"/>
+    <SubTexture name="TitleUtilizerRU" x="2" y="2" width="1019" height="124"/>
+    <SubTexture name="tvnoise" x="1254" y="446" width="100" height="100"/>
+    <SubTexture name="upgItemIcoBG0" x="249" y="776" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG1" x="447" y="811" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG2" x="248" y="902" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG3" x="447" y="937" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG4" x="447" y="1063" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG5" x="2" y="820" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG6" x="2" y="946" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG7" x="2" y="1072" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG8" x="237" y="1028" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG9" x="2" y="1198" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG10" x="237" y="1154" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG11" x="445" y="1189" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG12" x="235" y="1280" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG13" x="2" y="1324" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG14" x="2" y="1450" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG15" x="1002" y="446" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG16" x="825" y="499" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG17" x="1128" y="446" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG18" x="1356" y="480" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG19" x="1482" y="480" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG20" x="1682" y="500" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG21" x="1874" y="594" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG22" x="1682" y="626" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG23" x="1873" y="720" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG24" x="1354" y="606" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG25" x="1480" y="606" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG26" x="997" y="572" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG27" x="1123" y="572" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG28" x="817" y="625" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgItemIcoBG30" x="1354" y="732" width="124" height="124" frameX="-1" frameY="-1" frameWidth="125" frameHeight="125"/>
+    <SubTexture name="upgProgress0" x="792" y="430" width="32" height="30"/>
+    <SubTexture name="upgProgress1" x="792" y="462" width="31" height="30"/>
+    <SubTexture name="upgProgress2" x="792" y="494" width="31" height="30"/>
+    <SubTexture name="upgProgress3" x="603" y="367" width="31" height="30"/>
+    <SubTexture name="video_ico" x="573" y="912" width="57" height="57"/>
+    <SubTexture name="whiteFade" x="2000" y="694" width="30" height="90"/>
+    <SubTexture name="whitePanel" x="1289" y="1208" width="76" height="76"/>
+    <SubTexture name="whitePanelTitle" x="1367" y="1208" width="76" height="76"/>
+    <SubTexture name="whitePanelTitleBig" x="1728" y="830" width="76" height="150"/>
+    <SubTexture name="whitePanelTitleGreenBig" x="1727" y="982" width="76" height="150"/>
+    <SubTexture name="whitePanelTitleRedBig" x="1275" y="839" width="76" height="150"/>
+</TextureAtlas>

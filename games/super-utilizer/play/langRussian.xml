@@ -1,0 +1,327 @@
+﻿<langData lang="Russian">
+    <text id="GameTitle">СУПЕР УТИЛАЙЗЕР</text>
+	<text id="CR">ОЛЕГ АНТИПОВ (C) 2025</text>
+	<text id="gameVer">ВЕРСИЯ</text>
+	<text id="verNum">1.1.8</text>
+	<text id="loading">Загрузка...</text>
+	<text id="sync">Синхронизация...</text>
+	<text id="prepData">Подготовка данных...</text>
+	
+	<text id="confirmTermsTitle">Добро пожаловать!</text>
+	<text id="confirmGDPRTitle">Важная информация</text>
+	<text id="confirmTerms">Прежде чем начать, пожалуйста, прочитайте и примите наши условия обслуживания и политику конфиденциальности. Спасибо, что вы выбрали нашу игру, и позвольте пожелать вам удачи!</text>
+	<text id="confirmGDPR">Если вы хотите видеть персонализированные рекламные объявления во время игры, разрешите нашим партнерам по рекламе собирать и обрабатывать данные о вашем устройстве. Ознакомьтесь с политикой конфиденциальности для получения дополнительной информации.</text>
+	<text id="btnTerms">Условия обслуживания</text>
+	<text id="btnPolicy">Политика конфиденциальности</text>
+	
+	<text id="btnSkip">ПРОПУСК</text>
+	<text id="btnPlay">ИГРАТЬ!</text>
+	<text id="btnRate">ОЦЕНИТЬ!</text>
+	<text id="btnAbyss">В БЕЗДНУ!</text>
+	<text id="btnUpgrade">УЛУЧШЕНИЯ</text>
+	<text id="btnSurv">ВЫЖИВАНИЕ</text>
+	<text id="btnAster">АСТЕРОИДЫ</text>
+	<text id="btnInv">ВТОРЖЕНИЕ</text>
+	<text id="btnAbyssInfo">БЕЗДНА</text>
+	<text id="btnMasks">СТАЙЛИНГ</text>
+	<text id="btnContinue">ПРОДОЛЖИТЬ</text>
+	<text id="btnReward2X">УДВОИТЬ НАГРАДУ!</text>
+	<text id="btnExit">ВЫХОД</text>
+	<text id="btnNext">ДАЛЕЕ</text>
+	<text id="btnRestart">РЕСТАРТ</text>
+	<text id="btnYes">ДА</text>
+	<text id="btnNo">НЕТ</text>
+	<text id="btnAccept">Я ПРИНИМАЮ</text>
+	<text id="btnUnAvail">НЕДОСТУПНО</text>
+	<text id="btnRestore">ВОССТАНОВИТЬ</text>
+	<text id="btnOk">OK</text>
+
+	<text id="survNotAval">ВЫЖИВАНИЕ БУДЕТ ДОСТУПНО/nПОСЛЕ СЕКТОРА 2-6</text>
+	<text id="upgNotAval">УЛУЧШЕНИЯ БУДУТ ДОСТУПНЫ/nПОСЛЕ СЕКТОРА 1-1</text>
+	<text id="stylesNotAval">СТАЙЛИНГ БУДЕТ ДОСТУПЕН/nПОСЛЕ СЕКТОРА 1-2</text>
+	<text id="gameNotAvalCluster">ЗАВЕРШИТЕ ПРЕДЫДУЩИЕ/nСЕКТОРА</text>
+	<text id="gameNotAvalStars">ВАМ НЕОБХОДИМО ПОЛУЧИТЬ/nБОЛЬШЕ ЗВЁЗД</text>
+	<text id="syncOK">СИНХРОНИЗАЦИЯ ВЫПОЛНЕНА</text>
+	<text id="syncBAD">ОШИБКА СИНХРОНИЗАЦИИ</text>
+		
+	<text id="clickToContinue">Коснитесь экрана/nчтобы продолжить</text>
+	
+	<text id="hlp1">ДВИГАЙ</text>
+	<text id="hlp2">ЛОВИ</text>
+	<text id="hlp3">СОЧЕТАЙ</text>
+	<text id="hlp4">УНИЧТОЖАЙ</text>
+
+	<text id="confirmReset">Вы действительно хотите/nстереть ВЕСЬ прогресс?</text>
+	<text id="confirmRestart">Вы действительно хотите/nначать сектор заново?</text>
+	<text id="confirmExit">Вы действительно хотите/nвыйти в главное меню?</text>
+	<text id="confirmExit2">Вы действительно хотите/nпокинуть игру? :(</text>
+	
+	<text id="promoTitle">Промо</text>
+	<text id="promoMsg">Введите промокод:</text>
+	<text id="promoApplyOK">Промокод применен!</text>
+	<text id="promoApplyError">Промокод истек/n или не существует</text>
+	<text id="cmdApplyOK">Команда выполнена!</text>
+	<text id="cmdApplyError">Ошибка :(</text>
+	<text id="OptMenuPaused">ПАУЗА</text>
+	<text id="OptMenuTitle">НАСТРОЙКИ</text>
+	<text id="optCtrl1">Управление 2</text>
+	<text id="optCtrl2">Управление 1</text>
+	<text id="optPromo">Промокод</text>
+	<text id="optSens">Отклик</text>
+	<text id="optAuth">Авторы</text>
+	<text id="optMus">Музыка</text>
+	<text id="optSnd">Звуки</text>
+	<text id="optVoc">Речь</text>
+	<text id="optRecover">Восстановить</text>
+	<text id="optReset">Сброс</text>
+	<text id="optQuaHi">Выс. качество</text>
+	<text id="optQuaLo">Низк. качество</text>
+	<text id="optTransEn">US Английский</text>
+	<text id="optTransRu">Русский</text>
+	<text id="optGameServIn">Подключен</text>
+	<text id="optGameServOut">Отключен</text>
+	
+	<text id="shopMenuTitle">МАГАЗИН</text>
+	<text id="btnBuy">КУПИТЬ</text>
+	<text id="btnGet">ПОЛУЧИТЬ</text>
+	<text id="btnGot">КУПЛЕНО</text>
+	<text id="shopItemAd">ОТКЛЮЧИТЬ РЕКЛАМУ</text>
+	<text id="shopItem0">НЕСКОЛЬКО МОНЕТ</text>
+	<text id="shopItem1">ГОРСТЬ МОНЕТ</text>
+	<text id="shopItem2">МНОГО МОНЕТ</text>
+	<text id="shopItem3">ПРОРВА МОНЕТ</text>
+	<text id="shopItem4">ВСЕ МОНЕТЫ МИРА</text>
+	<text id="shopRewardCompl">МОНЕТЫ ПОЛУЧЕНЫ!</text>
+	<text id="shopRewardError">ОШИБКА! ПОПРОБУЙТЕ ПОЗЖЕ</text>
+	<text id="shopRewardDecl">ПРЕРВАНО</text>
+	<text id="shopBuyCompl">ПОКУПКА СОВЕРШЕНА!</text>
+	<text id="shopBuyError">ОШИБКА! ПОПРОБУЙТЕ ПОЗЖЕ</text>
+	<text id="shopRestore">ПОКУПКИ ВОССТАНОВЛЕНЫ</text>
+	<text id="restartRewardCompl">МОЖНО ПРОДОЛЖИТЬ!</text>
+	<text id="restartRewardError">ОШИБКА! ПОПРОБУЙТЕ ПОЗЖЕ</text>
+	<text id="restartRewardDecl">ПРЕРВАНО</text>
+	<text id="resultRewardCompl">НАГРАДА УДВОЕНА!</text>
+	<text id="resultRewardError">ОШИБКА! ПОПРОБУЙТЕ ПОЗЖЕ</text>
+	<text id="resultRewardDecl">ПРЕРВАНО</text>
+
+	<text id="restartMenuTitle">ЕЩЁ ОДИН ШАНС?</text>
+	<text id="gameOverTitle">ИГРА ОКОНЧЕНА!</text>
+	<text id="sectorClearTitle">СЕКТОР ЗАЧИЩЕН!</text>
+	<text id="sectorComplete">СЕКТОР ЗАВЕРШЁН!</text>
+	<text id="sectorFail">СЕКТОР ПРОВАЛЕН...</text>
+	<text id="bossTitle">ПРИБЛИЖАЕТСЯ/nОПАСНЫЙ ОБЪЕКТ!</text>
+	<text id="ForwardTitle">ФОРСАЖ!</text>
+	<text id="blockLost">БЛОК УТЕРЯН!</text>
+	<text id="enemyCrossLine">ВРАГ ПЕРЕСЁК ЧЕРТУ!</text>
+	<text id="cleanPad">ЧИСТО!</text>
+	<text id="combo">КОМБО!</text>
+	<text id="malf">НЕИСПРАВНОСТЬ!</text>
+	
+	<text id="deaths">ПОТЕРЯНО ЖИЗНЕЙ:</text>	
+	<text id="enemiesKilled">УБИТО ВРАГОВ:</text>
+	<text id="blocksCollected">УТИЛИЗ. БЛОКОВ:</text>
+	<text id="cashEarned">СОБРАНО МОНЕТ:</text>
+	<text id="cashBonus">НОВЫЕ ЗВЁЗДЫ:</text>
+	<text id="cashBonusAbyss">САПФИРОВЫЕ ЧЕРЕПА:</text>
+	<text id="cashExtra">ЗАВЕРШЕНО:</text>
+	<text id="cashTotal">ВСЕГО МОНЕТ:</text>
+	<text id="lives">ЖИЗНЕЙ</text>
+	<text id="starsInfo">ЗАВЕРШИ ЭТОТ СЕКТОР/nИ ПОЛУЧИ ЗВЁЗДЫ</text>
+	<text id="scullsInfo">ЗАВЕРШИ ЭТОТ УРОВЕНЬ/nИ ПОЛУЧИ ЧЕРЕПА</text>
+	
+	<text id="clusterAbyss">"БЕЗДНА"</text>
+	<text id="sectorAbyss">УРОВЕНЬ</text>
+	
+	<text id="openedCluster">ОТКРЫТ КЛАСТЕР:</text>
+	<text id="openedMode">ОТКРЫТ РЕЖИМ ИГРЫ:</text>
+	<text id="openedAvail">ТЕПЕРЬ ДОСТУПНО:</text>
+	
+	<text id="clusterCelestia">"ЦЕЛЕСТИЯ"</text>
+	<text id="clusterMioria">"МИОРИЯ"</text>
+	<text id="clusterIkar">"ИКАР"</text>
+	<text id="clusterAlderra">"АЛЬДЕРРА"</text>
+	<text id="clusterTaliman">"ТАЛИМАН"</text>
+	<text id="clusterErgo">"ЭРГО"</text>
+	<text id="clusterHortus">"ХОРТУС"</text>
+	<text id="clusterNibellion">"НИБЕЛЛИОН"</text>
+	<text id="sector">СЕКТОР</text>
+	<text id="sector_bonus">СЕКТОР АСТЕРОИДОВ!</text>
+	<text id="sector_invaders">СЕКТОР ВТОРЖЕНИЯ!</text>
+	<text id="sector_surv">РЕЖИМ ВЫЖИВАНИЯ!</text>
+	<text id="sector_boss">СЕКТОР БОССА!</text>
+	<text id="sectorLocked">ЗАКРЫТО</text>
+	<text id="lastCluster">СПАСИБО/nЗА ИГРУ!</text>
+	<text id="lastClusterThanks">Совсем скоро мы сделаем ещё уровни! А пока мы будем признательны, если вы оцените игру в магазине приложений.</text>
+	<text id="needStarsForCluster">Чтобы получить доступ/nв данный кластер,/nвам необходимо собрать</text>
+	
+	<text id="rule_bonus">Правила сектора:/n1. Только одна жизнь./n2. Нельзя терять блоки.</text>
+	<text id="rule_invaders">Правила сектора:/n1. Только одна жизнь./n2. Монстры не должны пересечь черту.</text>
+	<text id="rule_surv">Правила:/n1. Только одна жизнь./n2. Пролететь как можно дальше.</text>
+	
+	<text id="survComplete">РЕЗУЛЬТАТЫ</text>
+	<text id="survCur">ТЕКУЩИЙ:</text>
+	<text id="survBest">ЛУЧШИЙ:</text>
+	<text id="survCash">СОБРАНО МОНЕТ:</text>
+	<text id="survMult">ДИСТАНЦИЯ:</text>
+	<text id="survWave">Волна</text>
+	<text id="parsec">парсек</text>
+	
+	<text id="btnLvlUp">НОВ. КОРПУС</text>
+	<text id="btnUpgradeMenu">УЛУЧШИТЬ!</text>	
+	<text id="btnBack">НАЗАД</text>	
+	
+	<text id="videoAds">ВИДЕО</text>
+		
+	<text id="upgLimitHull">Нужен корпус</text>	
+	
+	<text id="upgSlot_LVL2"> II</text>
+	<text id="upgSlot_frontGun2">Фронтальный лазер</text>	
+	<text id="upgSlot_rearGun2">Задняя дубль-пушка</text>	
+	<text id="upgSlot_frontGun">Лобовая пушка</text>	
+	<text id="upgSlot_sideGun">Боковые пушки</text>	
+	<text id="upgSlot_rearGun">Тыловая пушка</text>	
+	<text id="upgSlot_Engine">Двигатели</text>	
+	<text id="upgSlot_Nukes">Ядерная бомба</text>
+	<text id="upgSlot_Combinations">Комбинации</text>	
+	<text id="upgSlot_BlockMega">Мега-блоки</text>	
+	<text id="upgSlot_Magnet">Магнит для монет</text>	
+	<text id="upgSlot_BlockCoins">Награда за блоки</text>
+	<text id="upgSlot_MonsterCoins">Награда за монстров</text>
+	<text id="upgSlot_BonusCoinX2">Двойные монеты</text>	
+	<text id="upgSlot_BonusDmgX2">Двойной урон</text>	
+	<text id="upgSlot_BonusShield">Щит</text>	
+	<text id="upgSlot_BonusSplit">Сплиттер</text>	
+	<text id="upgSlot_BonusCoins">Куча Монет</text>	
+	<text id="upgSlot_BonusSame">Один цвет</text>	
+	
+	<text id="hull_1">МОСКИТ</text>
+	<text id="hull_2">МУЛ</text>
+	<text id="hull_3">БЕГЕМОТ</text>
+	<text id="hull_4">СОКОЛ</text>
+	<text id="hull_5">ЗЕВС</text>
+	<text id="hull_6">ОМЕГА</text>
+	
+	<text id="upgSlotMaximum">Максимум/nдостигнут</text>
+	<text id="btnLvlUpMax">Максимум</text>
+	
+	<text id="upgSlotParam_dmg_1">Увеличить/nурон +30%</text>	
+	<text id="upgSlotParam_rate_1">Увеличить скорость/nстрельбы +12%</text>	
+	<text id="upgSlotParam_rate_5">Улучшить до/nуровня II</text>	
+	<text id="upgSlotParam_rate_6">Увеличить скорость/nстрельбы +12%</text>	
+	
+	<text id="upgSlotParam_dmg2_1">Разблокировать/nфронтальный лазер</text>	
+	<text id="upgSlotParam_dmg2_2">Увеличить/nурон +30%</text>	
+	<text id="upgSlotParam_rate2_1">Увеличить скорость/nстрельбы +12%</text>	
+	<text id="upgSlotParam_rate2_5">Улучшить до/nуровня II</text>	
+	<text id="upgSlotParam_rate2_6">Увеличить скорость/nстрельбы +12%</text>	
+
+	<text id="upgSlotParam_dmgSide_1">Разблокировать/nбоковые пушки</text>	
+	<text id="upgSlotParam_dmgSide_2">Увеличить/nурон +30%</text>	
+	<text id="upgSlotParam_rateSide_1">Увеличить скорость/nстрельбы +12%</text>	
+	<text id="upgSlotParam_rateSide_5">Улучшить до/nуровня II</text>	
+	<text id="upgSlotParam_rateSide_6">Увеличить скорость/nстрельбы +12%</text>	
+	
+	<text id="upgSlotParam_dmgRear_1">Разблокировать/nтыловую пушку</text>	
+	<text id="upgSlotParam_dmgRear_2">Увеличить/nурон +30%</text>	
+	<text id="upgSlotParam_rateRear_1">Увеличить скорость/nстрельбы +12%</text>	
+	<text id="upgSlotParam_rateRear_5">Улучшить до/nуровня II</text>	
+	<text id="upgSlotParam_rateRear_6">Увеличить скорость/nстрельбы +12%</text>	
+	
+	<text id="upgSlotParam_dmgRear2_1">Разблокировать/nЗаднюю дубль-пушку</text>	
+	<text id="upgSlotParam_dmgRear2_2">Увеличить/nурон +30%</text>	
+	<text id="upgSlotParam_rateRear2_1">Увеличить скорость/nстрельбы +12%</text>	
+	<text id="upgSlotParam_rateRear2_5">Улучшить до/nуровня II</text>	
+	<text id="upgSlotParam_rateRear2_6">Увеличить скорость/nстрельбы +12%</text>	
+	
+	<text id="upgSlotParam_speed_1">Увеличить мощность/nдвигателей +15%</text>	
+
+	<text id="upgSlotParam_nukeCnt_1">Разблокировать/nядерную бомбу</text>	
+	<text id="upgSlotParam_nukeCnt_2">Увеличить количество/n+1 бомба</text>	
+	<text id="upgSlotParam_nukePower_1">Увеличить/nмощность бомб +15%</text>	
+	
+	<text id="upgSlotParam_combine_1">Разблокировать/n4 блока квадратом</text>	
+	<text id="upgSlotParam_combine_2">Разблокировать/n4 блока в ряд</text>	
+	<text id="upgSlotParam_combine_3">Разблокировать/n4 блока по диагонали</text>
+	<text id="upgSlotParam_combine_4">Разблокировать/n3 блока по диагонали</text>	
+	<text id="upgSlotParam_combine_5">Разблокировать/n4 блока попеременно</text>
+	<text id="upgSlotParam_combine_6">Разблокировать/n3 блока попеременно</text>
+	<text id="upgSlotParam_combine_7">Разблокировать/n4 блока углом</text>	
+	<text id="upgSlotParam_combine_8">Разблокировать/n4 блока зигзагом</text>	
+	<text id="upgSlotParam_combine_9">Разблокировать/n3 блока углом</text>							
+
+	<text id="upgSlotParam_bonusShield_1">Разблокировать/nбонус 'Щит'</text>	
+	<text id="upgSlotParam_bonusShield_2">Увеличить/nдлительность +1 сек</text>
+		
+	<text id="upgSlotParam_bonusSplit_1">Разблокировать/nбонус 'Сплиттер'</text>	
+	<text id="upgSlotParam_bonusSplit_2">Увеличить/nдлительность +1 сек</text>
+	
+	<text id="upgSlotParam_bonusSame_1">Разблокировать/nбонус 'Один цвет'</text>	
+	<text id="upgSlotParam_bonusSame_2">Увеличить/nдлительность +3 сек</text>
+	
+	<text id="upgSlotParam_bonusCoins_1">Разблокировать/nбонус 'Куча монет'</text>	
+	<text id="upgSlotParam_bonusCoins_2">Увеличить/nкол-во +5%</text>
+	
+	<text id="upgSlotParam_bonusCoinX2_1">Разблокировать/nбонус 'Двойные монеты'</text>	
+	<text id="upgSlotParam_bonusCoinX2_2">Увеличить/nдлительность +1 сек</text>
+	
+	<text id="upgSlotParam_bonusDmgX2_1">Разблокировать/nбонус 'Двойной урон'</text>
+	<text id="upgSlotParam_bonusDmgX2_2">Увеличить/nдлительность +1 сек</text>
+
+	<text id="upgSlotParam_blockMega_1">Горизонтальные/nмега-блоки</text>	
+	<text id="upgSlotParam_blockMega_2">Вертикальные/nмега-блоки</text>	
+	<text id="upgSlotParam_blockMega_3">Крест-накрест/nмега-блоки</text>	
+	<text id="upgSlotParam_blockMega_4">Окружающие/nмега-блоки</text>	
+	<text id="upgSlotParam_blockMegaChance_1">Увеличить/nвероятность +5%</text>	
+	
+	<text id="upgSlotParam_blockCoins_1">Увеличить награду/n+1 монета</text>	
+	<text id="upgSlotParam_monsterCoins_1">Увеличить награду/n+1 монета</text>	
+	
+
+	<text id="upgSlotParam_magnetPower_1">Увеличить мощность/nмагнита +10%</text>	
+	
+	<text id="upgSlotParam_magnetRadius_1">Разблокировать/nмагнит для монет</text>	
+	<text id="upgSlotParam_magnetRadius_2">Увеличить радиус/nмагнита +15%</text>	
+
+	<text id="auth">код, геймдизайн, интерфейс/nОЛЕГ АНТИПОВ/n/nарт/nОЛЬГА АНТИПОВА/n/nмузыка/nОЛЕГ АНТИПОВ/nЕКАТЕРИНА КОТОВА/n/nтестирование/nАЛЕКСЕЙ БЕЛОВ/nАЛЕКСАНДРА ТЕРЕХОВА/nРОМАН БОГОМОЛОВ</text>
+	
+	<text id="intro1">В нашем космосе есть много проблем</text>
+	<text id="intro2">Он кишит инопланетными паразитами, мусором и астероидами, что сильно осложняет космическую навигацию.</text>
+	<text id="intro3">Поэтому Звездная Федерация посылает в глубокий космос Утилайзеров, чтобы сделать космос более безопасным для межзвёздных перелетов.</text>
+	<text id="intro4">Добро пожаловать в службу Утилизации, пилот!</text>
+	
+	<text id="utilService">Служба Утилизации</text>
+	<text id="utilServiceSlogan">делаем космос безопасным с {YEAR} года</text>
+
+	
+	<text id="begin1">Начинай с космических секторов звёздного кластера «Целестия», опасностей здесь не много, так что думаю ты справишься.</text>
+	<text id="begin2">Твоя главная задача: собирать мусорные контейнеры на утилизирующей платформе.</text>
+	<text id="begin3">И не забывай сортировать мусор по цвету. Запомни: мусор вперемешку нам не нужен, и за него ты не получишь награды!</text>
+	<text id="begin4">Уничтожай инопланетных паразитов. За ликвидацию каждого ты получишь награду, в соотвествии с его размерами и опасностью конечно.</text>
+	<text id="begin4_2">Избавься от оставшихся монстров чтобы закончить сектор.</text>
+	<text id="begin5">Также награда полагается за завершение очистки сектора. Закончи сектор на 3 звезды навыка и получай большую награду!</text>
+	
+	<text id="upgradeThis">Улучшай свой корабль: модернизируй утилизирующую платформу, прикупи мощных пушек, прокачай двигатели, купи ядерные заряды в конце концов!</text>
+	<text id="styleThis">Если хочешь выглядеть круто, можешь также посетить магазин стайлинга и приобрести голографические наклейки на борт по своему вкусу.</text>
+
+	<text id="nextCluster">Что ж, ты показал себя опытным пилотом, и теперь мы сможем тебе давать задания в более опасных секторах. Твоя награда будет расти, естественно!</text>
+	
+	<text id="MioriaCluster">Кластер "Миория" известен своими обширными астероидными полями и частыми вторжениями опасных инопланетных паразитов. Не теряй бдительности!</text>
+	<text id="IkarCluster">Кластер "Икар" содержит высокую концентрацию космического мусора, требующего особого внимания и усилий для его утилизации. Будь осторожен, не допускай столкновений!</text>
+	<text id="AlderraCluster">В кластере "Альдерра" часто встречаются огромные стаи инопланетных монстров, угрожающие нашим торговым путям. Будь осторожен, пилот, и держи оружие наготове!</text>
+	<text id="TalimanCluster">Кластер "Талиман" состоит из множества сложных секторов, где Утилайзеры могут заработать большие награды за очистку. Но помни о смертельной опасности и не действуй безрассудно!</text>
+	<text id="ErgoCluster">Кластер "Эрго" известен своими загадочными и опасными секторами, где даже самые опытные пилоты могут столкнуться с неожиданными угрозами. Будь готов к любым "сюрпризам"!</text>
+	<text id="HortusCluster">Кластер "Хортус" - самый опасный кластер в нашей галактике. Только лучшие корабли с усиленной защитой справятся с его очисткой. Будь подготовлен прежде, чем туда соваться!</text>
+	
+	<text id="boss1Desc">Ого, похоже этот Одноглаз покрупнее остальных будет!</text>
+	<text id="boss2Desc">Осторожней, этот Бронелоб имеет мощный лазер!</text>
+	<text id="boss3Desc">Хм, это кто - Космоцып? Опасайся его плазменного хвоста!</text>
+	<text id="boss4Desc">Ой-ой-ой, это Огнеплюй, спасайся кто может!</text>
+	<text id="boss5Desc">Опа, а это Размножальщик, если ты зазеваешься, он завалит одноглазыми весь сектор!</text>
+	<text id="boss6Desc">Так-так, а это кто, Шлемозлоб? Никогда не видел таких огромных!</text>
+	<text id="boss7Desc">О нет, это гиганский Бомбаног! Уворачивайся от его бомб и силового поля!</text>
+	
+	<text id="asterMode">В этом секторе нет монстров, но крайне много астероидов и мусора, поэтому здесь требуется генеральная уборка!</text>
+	<text id="invMode">В этом секторе инопланетные паразиты группируются в огромные стаи и атакуют наши торговые суда. Защищай наше пространство от вторжения монстров!</text>
+	<text id="survMode">Попробуй свои силы в режиме «Выживание»: очистка бескрайних космических трасс от инопланетной нечисти. Каждый парсек чистого пространства будет оплачен!</text>
+	<text id="abyssMode">Поздравляю, ты открыл пространство Великой Бездны! Это крайне опасное место, и никто не знает с чем ты можешь там столкнуться. Только самые смелые и подготовленные пилоты осмеливаются там летать, удачи!</text>
+</langData>

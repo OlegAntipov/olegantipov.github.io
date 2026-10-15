@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:95d38df30f25333afa874b82b1fd7b94:d35e25e6aa5a1e6968d84cfb55a6b016:eec11b1f9cfb50629ac73a1c864ca9eb$ -->
+<TextureAtlas imagePath="fx.png" width="1024" height="1024">
+    <SubTexture name="bonusCoins" x="681" y="158" width="64" height="44"/>
+    <SubTexture name="bonusCoinX2" x="580" y="363" width="52" height="57"/>
+    <SubTexture name="bonusDmgX2" x="340" y="62" width="49" height="55"/>
+    <SubTexture name="bonusHeart" x="606" y="59" width="58" height="48"/>
+    <SubTexture name="bonusNuke" x="391" y="2" width="63" height="63"/>
+    <SubTexture name="bonusSame" x="499" y="441" width="62" height="60"/>
+    <SubTexture name="bonusShield" x="531" y="302" width="62" height="59"/>
+    <SubTexture name="bonusSplit" x="706" y="51" width="58" height="44"/>
+    <SubTexture name="fxBlastBig" x="2" y="2" width="266" height="266"/>
+    <SubTexture name="fxBlastBigWhite" x="2" y="270" width="266" height="266"/>
+    <SubTexture name="fxBlastMini" x="181" y="612" width="72" height="71"/>
+    <SubTexture name="fxBlastMiniBlue" x="239" y="538" width="72" height="71"/>
+    <SubTexture name="fxBlastMiniGreen" x="255" y="611" width="72" height="71"/>
+    <SubTexture name="fxBlastMiniPink" x="247" y="725" width="72" height="71"/>
+    <SubTexture name="fxBlock1Deb1" x="313" y="139" width="40" height="34"/>
+    <SubTexture name="fxBlock1Deb2" x="313" y="590" width="29" height="19"/>
+    <SubTexture name="fxBlock1Deb3" x="157" y="987" width="22" height="35"/>
+    <SubTexture name="fxBlock1Deb4" x="688" y="278" width="21" height="26"/>
+    <SubTexture name="fxBlock2Deb1" x="677" y="865" width="40" height="34"/>
+    <SubTexture name="fxBlock2Deb2" x="344" y="590" width="29" height="19"/>
+    <SubTexture name="fxBlock2Deb3" x="363" y="868" width="22" height="35"/>
+    <SubTexture name="fxBlock2Deb4" x="658" y="421" width="21" height="26"/>
+    <SubTexture name="fxBlock3Deb1" x="744" y="979" width="40" height="34"/>
+    <SubTexture name="fxBlock3Deb2" x="646" y="766" width="29" height="19"/>
+    <SubTexture name="fxBlock3Deb3" x="107" y="987" width="23" height="35"/>
+    <SubTexture name="fxBlock3Deb4" x="666" y="391" width="21" height="26"/>
+    <SubTexture name="fxBlock4Deb1" x="706" y="709" width="40" height="34"/>
+    <SubTexture name="fxBlock4Deb2" x="340" y="119" width="29" height="18"/>
+    <SubTexture name="fxBlock4Deb3" x="132" y="987" width="23" height="35"/>
+    <SubTexture name="fxBlock4Deb4" x="671" y="331" width="22" height="26"/>
+    <SubTexture name="fxBlockMegaDeb1" x="706" y="745" width="40" height="34"/>
+    <SubTexture name="fxBlockMegaDeb2" x="613" y="944" width="29" height="19"/>
+    <SubTexture name="fxBlockMegaDeb3" x="387" y="868" width="22" height="35"/>
+    <SubTexture name="fxBlockMegaDeb4" x="658" y="449" width="21" height="26"/>
+    <SubTexture name="fxDeb_enemyAster1" x="640" y="2" width="50" height="47"/>
+    <SubTexture name="fxDeb_enemyAster2" x="737" y="889" width="53" height="33"/>
+    <SubTexture name="fxDeb_enemyAster3" x="556" y="122" width="45" height="50"/>
+    <SubTexture name="fxDeb_enemyAster4" x="492" y="125" width="62" height="47"/>
+    <SubTexture name="fxDeb_enemyAster5" x="556" y="122" width="45" height="50"/>
+    <SubTexture name="fxDeb_enemyBird1" x="378" y="977" width="63" height="45"/>
+    <SubTexture name="fxDeb_enemyBird2" x="179" y="804" width="62" height="76"/>
+    <SubTexture name="fxDeb_enemyBird3" x="542" y="676" width="45" height="46"/>
+    <SubTexture name="fxDeb_enemyBird4" x="573" y="610" width="73" height="58"/>
+    <SubTexture name="fxDeb_enemyBird5" x="600" y="966" width="62" height="56"/>
+    <SubTexture name="fxDeb_enemyBlob1" x="709" y="661" width="23" height="30"/>
+    <SubTexture name="fxDeb_enemyBlob2" x="786" y="991" width="34" height="31"/>
+    <SubTexture name="fxDeb_enemyBlob3" x="280" y="984" width="47" height="38"/>
+    <SubTexture name="fxDeb_enemyBlob4" x="634" y="363" width="24" height="28"/>
+    <SubTexture name="fxDeb_enemyBlob5" x="221" y="685" width="40" height="38"/>
+    <SubTexture name="fxDeb_enemyBomber1" x="634" y="333" width="35" height="28"/>
+    <SubTexture name="fxDeb_enemyBomber2" x="633" y="788" width="30" height="41"/>
+    <SubTexture name="fxDeb_enemyBomber3" x="565" y="280" width="40" height="20"/>
+    <SubTexture name="fxDeb_enemyBomber4" x="734" y="661" width="30" height="29"/>
+    <SubTexture name="fxDeb_enemyBomber5" x="709" y="817" width="27" height="34"/>
+    <SubTexture name="fxDeb_enemyBug1" x="263" y="684" width="40" height="38"/>
+    <SubTexture name="fxDeb_enemyBug2" x="504" y="677" width="36" height="45"/>
+    <SubTexture name="fxDeb_enemyBug3" x="519" y="858" width="38" height="42"/>
+    <SubTexture name="fxDeb_enemyBug4" x="605" y="875" width="37" height="25"/>
+    <SubTexture name="fxDeb_enemyBug5" x="709" y="597" width="50" height="30"/>
+    <SubTexture name="fxDeb_enemyFirebug1" x="644" y="831" width="25" height="40"/>
+    <SubTexture name="fxDeb_enemyFirebug2" x="456" y="859" width="61" height="42"/>
+    <SubTexture name="fxDeb_enemyFirebug3" x="391" y="67" width="49" height="50"/>
+    <SubTexture name="fxDeb_enemyFirebug4" x="296" y="905" width="63" height="74"/>
+    <SubTexture name="fxDeb_enemyFirebug5" x="425" y="119" width="65" height="53"/>
+    <SubTexture name="fxDeb_enemyGen1" x="603" y="122" width="37" height="50"/>
+    <SubTexture name="fxDeb_enemyGen2" x="329" y="981" width="47" height="41"/>
+    <SubTexture name="fxDeb_enemyGen3" x="656" y="902" width="42" height="37"/>
+    <SubTexture name="fxDeb_enemyGen4" x="613" y="902" width="41" height="40"/>
+    <SubTexture name="fxDeb_enemyGen5" x="605" y="788" width="26" height="42"/>
+    <SubTexture name="fxDeb_enemyGen21" x="559" y="854" width="44" height="46"/>
+    <SubTexture name="fxDeb_enemyGen22" x="698" y="997" width="22" height="25"/>
+    <SubTexture name="fxDeb_enemyGen23" x="314" y="871" width="47" height="32"/>
+    <SubTexture name="fxDeb_enemyGen24" x="490" y="579" width="63" height="30"/>
+    <SubTexture name="fxDeb_enemyGen25" x="590" y="902" width="21" height="62"/>
+    <SubTexture name="fxDeb_enemyLaser1" x="684" y="100" width="59" height="44"/>
+    <SubTexture name="fxDeb_enemyLaser2" x="443" y="974" width="61" height="48"/>
+    <SubTexture name="fxDeb_enemyLaser3" x="96" y="726" width="24" height="82"/>
+    <SubTexture name="fxDeb_enemyLaser4" x="371" y="119" width="52" height="54"/>
+    <SubTexture name="fxDeb_enemyLaser5" x="642" y="109" width="40" height="47"/>
+    <SubTexture name="fxDeb_enemyLeaf1" x="723" y="2" width="46" height="44"/>
+    <SubTexture name="fxDeb_enemyLeaf2" x="623" y="554" width="33" height="52"/>
+    <SubTexture name="fxDeb_enemyLeaf3" x="664" y="667" width="43" height="40"/>
+    <SubTexture name="fxDeb_enemyLeaf4" x="696" y="958" width="38" height="37"/>
+    <SubTexture name="fxDeb_enemyLeaf5" x="595" y="302" width="37" height="50"/>
+    <SubTexture name="fxDeb_enemyMollusk1" x="577" y="174" width="40" height="51"/>
+    <SubTexture name="fxDeb_enemyMollusk2" x="506" y="2" width="74" height="60"/>
+    <SubTexture name="fxDeb_enemyMollusk3" x="577" y="724" width="67" height="62"/>
+    <SubTexture name="fxDeb_enemyMollusk4" x="350" y="383" width="42" height="66"/>
+    <SubTexture name="fxDeb_enemyMollusk5" x="321" y="724" width="68" height="70"/>
+    <SubTexture name="fxDeb_enemyMover1" x="270" y="128" width="41" height="45"/>
+    <SubTexture name="fxDeb_enemyMover2" x="607" y="280" width="28" height="20"/>
+    <SubTexture name="fxDeb_enemyMover3" x="637" y="278" width="35" height="21"/>
+    <SubTexture name="fxDeb_enemyMover4" x="395" y="679" width="35" height="43"/>
+    <SubTexture name="fxDeb_enemyMover5" x="605" y="832" width="37" height="41"/>
+    <SubTexture name="fxDeb_enemyMoverArmor1" x="656" y="158" width="23" height="47"/>
+    <SubTexture name="fxDeb_enemyMoverArmor2" x="660" y="363" width="29" height="26"/>
+    <SubTexture name="fxDeb_enemyMoverArmor3" x="758" y="924" width="33" height="32"/>
+    <SubTexture name="fxDeb_enemyMoverArmor4" x="657" y="301" width="29" height="28"/>
+    <SubTexture name="fxDeb_enemyMoverArmor5" x="229" y="882" width="36" height="23"/>
+    <SubTexture name="fxDeb_enemyMoverFast1" x="666" y="51" width="38" height="47"/>
+    <SubTexture name="fxDeb_enemyMoverFast2" x="411" y="868" width="43" height="34"/>
+    <SubTexture name="fxDeb_enemyMoverFast3" x="719" y="853" width="26" height="34"/>
+    <SubTexture name="fxDeb_enemyMoverFast4" x="39" y="987" width="34" height="35"/>
+    <SubTexture name="fxDeb_enemyMoverFast5" x="663" y="255" width="30" height="21"/>
+    <SubTexture name="fxDeb_enemyMoverFastArmor1" x="305" y="684" width="33" height="38"/>
+    <SubTexture name="fxDeb_enemyMoverFastArmor2" x="267" y="881" width="26" height="22"/>
+    <SubTexture name="fxDeb_enemyMoverFastArmor3" x="375" y="589" width="41" height="20"/>
+    <SubTexture name="fxDeb_enemyMoverFastArmor4" x="179" y="882" width="29" height="24"/>
+    <SubTexture name="fxDeb_enemyMoverFastArmor5" x="822" y="991" width="51" height="30"/>
+    <SubTexture name="fxDeb_enemyMoverFat1" x="692" y="941" width="19" height="15"/>
+    <SubTexture name="fxDeb_enemyMoverFat2" x="736" y="940" width="20" height="37"/>
+    <SubTexture name="fxDeb_enemyMoverFat3" x="555" y="564" width="66" height="44"/>
+    <SubTexture name="fxDeb_enemyMoverFat4" x="552" y="64" width="52" height="56"/>
+    <SubTexture name="fxDeb_enemyMoverFat5" x="589" y="670" width="37" height="52"/>
+    <SubTexture name="fxDeb_enemyMoverFatArmor1" x="210" y="882" width="17" height="24"/>
+    <SubTexture name="fxDeb_enemyMoverFatArmor2" x="708" y="781" width="38" height="34"/>
+    <SubTexture name="fxDeb_enemyMoverFatArmor3" x="766" y="48" width="36" height="44"/>
+    <SubTexture name="fxDeb_enemyMoverFatArmor4" x="700" y="901" width="35" height="37"/>
+    <SubTexture name="fxDeb_enemyMoverFatArmor5" x="692" y="2" width="29" height="47"/>
+    <SubTexture name="fxDeb_enemyOctopus1" x="442" y="67" width="48" height="50"/>
+    <SubTexture name="fxDeb_enemyOctopus2" x="491" y="240" width="72" height="60"/>
+    <SubTexture name="fxDeb_enemyOctopus3" x="506" y="970" width="48" height="52"/>
+    <SubTexture name="fxDeb_enemyOctopus4" x="179" y="726" width="66" height="76"/>
+    <SubTexture name="fxDeb_enemyOctopus5" x="181" y="685" width="38" height="39"/>
+    <SubTexture name="fxDeb_enemyShooter1" x="619" y="174" width="35" height="49"/>
+    <SubTexture name="fxDeb_enemyShooter2" x="664" y="961" width="30" height="40"/>
+    <SubTexture name="fxDeb_enemyShooter3" x="738" y="817" width="22" height="34"/>
+    <SubTexture name="fxDeb_enemyShooter4" x="745" y="97" width="43" height="44"/>
+    <SubTexture name="fxDeb_enemyShooter5" x="664" y="1003" width="32" height="15"/>
+    <SubTexture name="fxDeb_enemyShooterAdv1" x="582" y="2" width="39" height="55"/>
+    <SubTexture name="fxDeb_enemyShooterAdv2" x="181" y="986" width="52" height="36"/>
+    <SubTexture name="fxDeb_enemyShooterAdv3" x="361" y="905" width="53" height="70"/>
+    <SubTexture name="fxDeb_enemyShooterAdv4" x="340" y="679" width="53" height="43"/>
+    <SubTexture name="fxDeb_enemyShooterAdv5" x="270" y="2" width="57" height="65"/>
+    <SubTexture name="fxDeb_enemyShooterArmor1" x="295" y="881" width="17" height="22"/>
+    <SubTexture name="fxDeb_enemyShooterArmor2" x="740" y="629" width="29" height="29"/>
+    <SubTexture name="fxDeb_enemyShooterArmor3" x="644" y="873" width="31" height="27"/>
+    <SubTexture name="fxDeb_enemyShooterArmor4" x="722" y="997" width="20" height="25"/>
+    <SubTexture name="fxDeb_enemyShooterArmor5" x="355" y="139" width="14" height="34"/>
+    <SubTexture name="fxDeb_enemyShooterSide1" x="432" y="678" width="70" height="44"/>
+    <SubTexture name="fxDeb_enemyShooterSide2" x="771" y="2" width="35" height="42"/>
+    <SubTexture name="fxDeb_enemyShooterSide3" x="624" y="422" width="32" height="57"/>
+    <SubTexture name="fxDeb_enemyShooterSide4" x="235" y="986" width="43" height="36"/>
+    <SubTexture name="fxDeb_enemyShooterSide5" x="528" y="372" width="50" height="60"/>
+    <SubTexture name="fxDeb_enemyShooterSideArmor1" x="671" y="826" width="36" height="37"/>
+    <SubTexture name="fxDeb_enemyShooterSideArmor2" x="270" y="69" width="41" height="57"/>
+    <SubTexture name="fxDeb_enemyShooterSideArmor3" x="663" y="225" width="37" height="28"/>
+    <SubTexture name="fxDeb_enemyShooterSideArmor4" x="75" y="987" width="30" height="35"/>
+    <SubTexture name="fxDeb_enemyShooterSideArmor5" x="786" y="958" width="46" height="31"/>
+    <SubTexture name="fxDeb_enemyWorm1" x="634" y="302" width="21" height="29"/>
+    <SubTexture name="fxDeb_enemyWorm2" x="628" y="670" width="34" height="52"/>
+    <SubTexture name="fxDeb_enemyWorm3" x="618" y="227" width="43" height="49"/>
+    <SubTexture name="fxDeb_enemyWorm4" x="646" y="724" width="58" height="40"/>
+    <SubTexture name="fxDeb_enemyWorm5" x="665" y="787" width="41" height="37"/>
+    <SubTexture name="fxDeb_hero1" x="634" y="393" width="30" height="26"/>
+    <SubTexture name="fxDeb_hero2" x="709" y="629" width="29" height="30"/>
+    <SubTexture name="fxDeb_hero3" x="121" y="896" width="14" height="10"/>
+    <SubTexture name="fxDeb_hero4" x="747" y="853" width="36" height="32"/>
+    <SubTexture name="fxDeb_hero5" x="623" y="2" width="15" height="48"/>
+    <SubTexture name="fxDeb_hero6" x="656" y="207" width="28" height="16"/>
+    <SubTexture name="fxDeb_hero7" x="418" y="579" width="70" height="30"/>
+    <SubTexture name="fxDeb_hero8" x="644" y="944" width="46" height="15"/>
+    <SubTexture name="fxDeb_hero9" x="674" y="278" width="10" height="21"/>
+    <SubTexture name="fxDeb_hero10" x="681" y="419" width="9" height="26"/>
+    <SubTexture name="fxSmoke" x="2" y="820" width="117" height="86" frameX="-20" frameY="-28" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="fxSparks" x="96" y="810" width="5" height="5"/>
+    <SubTexture name="fxSparksBlue" x="103" y="810" width="5" height="5"/>
+    <SubTexture name="fxSparksGreen" x="110" y="810" width="5" height="5"/>
+    <SubTexture name="fxSparksPink" x="117" y="810" width="5" height="5"/>
+    <SubTexture name="fxStar" x="2" y="987" width="35" height="35"/>
+    <SubTexture name="projBomb0" x="524" y="174" width="51" height="51"/>
+    <SubTexture name="projBomb1" x="524" y="174" width="51" height="51"/>
+    <SubTexture name="projBomb2" x="524" y="174" width="51" height="51"/>
+    <SubTexture name="projBomb3" x="524" y="174" width="51" height="51"/>
+    <SubTexture name="projBomb4" x="524" y="174" width="51" height="51"/>
+    <SubTexture name="projBomb5" x="565" y="227" width="51" height="51"/>
+    <SubTexture name="projBomb6" x="565" y="227" width="51" height="51"/>
+    <SubTexture name="projBombRadius" x="2" y="726" width="92" height="92"/>
+    <SubTexture name="projEnBall0" x="563" y="434" width="59" height="58" frameX="-5" frameY="-4" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall1" x="466" y="309" width="63" height="61" frameX="-2" frameY="-2" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall2" x="522" y="902" width="66" height="64"/>
+    <SubTexture name="projEnBall3" x="394" y="381" width="66" height="64"/>
+    <SubTexture name="projEnBall4" x="398" y="312" width="66" height="64"/>
+    <SubTexture name="projEnBall5" x="423" y="243" width="66" height="64"/>
+    <SubTexture name="projEnBall6" x="456" y="174" width="66" height="64"/>
+    <SubTexture name="projEnBall7" x="462" y="378" width="64" height="61" frameX="-1" frameY="-2" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall8" x="511" y="503" width="62" height="59" frameX="-2" frameY="-3" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall9" x="329" y="2" width="60" height="58" frameX="-5" frameY="-4" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall10" x="648" y="608" width="59" height="57" frameX="-5" frameY="-5" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall11" x="636" y="481" width="58" height="56" frameX="-5" frameY="-5" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall12" x="658" y="539" width="58" height="56" frameX="-5" frameY="-5" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall13" x="492" y="67" width="58" height="56" frameX="-5" frameY="-5" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projEnBall14" x="575" y="494" width="59" height="58" frameX="-5" frameY="-4" frameWidth="66" frameHeight="64"/>
+    <SubTexture name="projFire0" x="415" y="611" width="58" height="65" frameX="-20" frameY="-7" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire1" x="394" y="447" width="55" height="64" frameX="-21" frameY="-5" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire2" x="359" y="796" width="54" height="70" frameX="-21" frameY="-3" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire3" x="243" y="804" width="56" height="75" frameX="-21" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire4" x="124" y="908" width="55" height="77" frameX="-21" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire5" x="122" y="726" width="55" height="78" frameX="-22" frameY="0" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire6" x="181" y="538" width="56" height="72" frameX="-22" frameY="-5" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire7" x="2" y="908" width="59" height="77" frameX="-20" frameY="0" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire8" x="416" y="904" width="58" height="68" frameX="-20" frameY="-8" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire9" x="313" y="522" width="58" height="66" frameX="-20" frameY="-7" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire10" x="301" y="798" width="56" height="71" frameX="-21" frameY="-5" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire11" x="239" y="907" width="55" height="75" frameX="-21" frameY="-3" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire12" x="121" y="817" width="56" height="77" frameX="-21" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire13" x="181" y="908" width="56" height="76" frameX="-22" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire14" x="63" y="908" width="59" height="77" frameX="-20" frameY="0" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projFire15" x="270" y="175" width="58" height="68" frameX="-20" frameY="-8" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="projGas" x="2" y="538" width="177" height="186"/>
+    <SubTexture name="projHero" x="556" y="968" width="20" height="53"/>
+    <SubTexture name="projHero2" x="578" y="968" width="20" height="53"/>
+    <SubTexture name="projHeroBack" x="313" y="69" width="25" height="68"/>
+    <SubTexture name="projHeroBack2" x="270" y="245" width="25" height="68"/>
+    <SubTexture name="projPlasma0" x="456" y="2" width="48" height="63" frameX="-2" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma1" x="523" y="611" width="48" height="63" frameX="-2" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma2" x="415" y="513" width="46" height="64" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma3" x="451" y="447" width="46" height="64" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma4" x="415" y="792" width="46" height="65" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma5" x="463" y="791" width="44" height="65" frameX="-4" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma6" x="481" y="724" width="44" height="65" frameX="-4" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma7" x="354" y="313" width="42" height="66" frameX="-5" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma8" x="379" y="244" width="42" height="66" frameX="-5" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma9" x="270" y="315" width="42" height="67" frameX="-5" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma10" x="373" y="611" width="40" height="66" frameX="-6" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma11" x="297" y="245" width="40" height="67" frameX="-6" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma12" x="270" y="384" width="38" height="67" frameX="-7" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma13" x="270" y="453" width="38" height="67" frameX="-7" frameY="-3" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma14" x="310" y="384" width="38" height="67" frameX="-7" frameY="-3" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma15" x="310" y="453" width="36" height="67" frameX="-8" frameY="-3" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma16" x="314" y="314" width="38" height="67" frameX="-7" frameY="-3" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma17" x="339" y="244" width="38" height="67" frameX="-7" frameY="-3" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma18" x="372" y="175" width="38" height="67" frameX="-7" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma19" x="330" y="175" width="40" height="67" frameX="-6" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma20" x="373" y="521" width="40" height="66" frameX="-6" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma21" x="391" y="724" width="40" height="66" frameX="-6" frameY="-2" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma22" x="412" y="175" width="42" height="66" frameX="-5" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma23" x="329" y="611" width="42" height="66" frameX="-5" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma24" x="509" y="791" width="44" height="65" frameX="-4" frameY="-1" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma25" x="348" y="453" width="44" height="66" frameX="-4" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma26" x="476" y="903" width="44" height="65" frameX="-4" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma27" x="433" y="724" width="46" height="65" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma28" x="463" y="513" width="46" height="64" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma29" x="475" y="611" width="46" height="64" frameX="-3" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma30" x="527" y="724" width="48" height="63" frameX="-2" frameY="0" frameWidth="50" frameHeight="70"/>
+    <SubTexture name="projPlasma31" x="555" y="789" width="48" height="63" frameX="-2" frameY="0" frameWidth="50" frameHeight="70"/>
+</TextureAtlas>

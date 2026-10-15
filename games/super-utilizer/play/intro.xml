@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="intro.png" width="1024" height="1024">
+    <SubTexture name="aster1" x="714" y="848" width="151" height="143"/>
+    <SubTexture name="aster2" x="714" y="701" width="165" height="145"/>
+    <SubTexture name="aster3" x="714" y="524" width="174" height="175"/>
+    <SubTexture name="aster4" x="889" y="2" width="128" height="122"/>
+    <SubTexture name="block1" x="891" y="379" width="110" height="114"/>
+    <SubTexture name="block2" x="891" y="254" width="110" height="123" frameX="0" frameY="0" frameWidth="110" frameHeight="124"/>
+    <SubTexture name="block3" x="293" y="894" width="110" height="106"/>
+    <SubTexture name="block4" x="889" y="126" width="110" height="126" frameX="0" frameY="-1" frameWidth="110" frameHeight="128"/>
+    <SubTexture name="hero1" x="2" y="894" width="288" height="62"/>
+    <SubTexture name="hero2" x="2" y="958" width="289" height="61"/>
+    <SubTexture name="monster1" x="714" y="307" width="175" height="215"/>
+    <SubTexture name="monster2" x="537" y="307" width="175" height="224"/>
+    <SubTexture name="monster3" x="537" y="533" width="175" height="219"/>
+    <SubTexture name="monster4" x="537" y="754" width="175" height="167"/>
+    <SubTexture name="station" x="2" y="2" width="533" height="890"/>
+    <SubTexture name="utilLogo" x="537" y="2" width="350" height="303"/>
+</TextureAtlas>

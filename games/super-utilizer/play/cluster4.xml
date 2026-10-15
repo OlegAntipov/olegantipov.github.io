@@ -1,0 +1,20 @@
+<cluster name='Alderra' id='4' color="#FF46A470" lastId="7"   needStars="38">
+	<marks>
+		<mark x='-296' y='74'  id='1'  fullNum='17'/>
+		<mark x='-141' y='209'  id='2'  fullNum='18'/>
+		<mark x='-41' y='6' id='3'  fullNum='19' type="bonus" skipNext="true"/>
+		<mark x='93' y='197' id='4'  fullNum='20'/>
+		<mark x='270' y='71' id='5'  fullNum='21'/>
+		<mark x='260' y='-129' id='6'  fullNum='22'/>
+		<mark x='27' y='-207' id='7'  fullNum='23' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='2' to='4'/>
+		<line from='4' to='5'/>
+		<line from='5' to='6'/>
+		<line from='6' to='7'/>
+	</lines>
+</cluster>
+

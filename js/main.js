@@ -50,7 +50,7 @@
       c.hidden = b.dataset.t !== 'all' && !tagList(c.dataset.tags).includes(b.dataset.t);
       c.classList.remove('in');
     });
-    requestAnimationFrame(watch);
+    requestAnimationFrame(() => { watch(); measure(); });
   });
 
   /* Marquee: clickable names (page link or popup, same as the covers) */
@@ -63,6 +63,10 @@
   //   opener = grid.querySelector('button.card[data-id="' + b.dataset.id + '"]'); openGame(b.dataset.id);
   // });
 
+  /* Pause the ticker while it is off screen */
+  // const mqBox = $('marquee').parentElement;
+  // new IntersectionObserver(es => es.forEach(e => mqBox.classList.toggle('off', !e.isIntersecting))).observe(mqBox);
+
   /* Hero: rotating scrambled word + counters */
   const rot = $('rot'), words = rot.dataset.words.split('|'); let wi = 0;
   rot.innerHTML = words.map(w => '<span class="rs" aria-hidden="true">' + esc(w) + '</span>').join('') + '<span class="rot-v">' + esc(words[0]) + '</span>';
@@ -73,37 +77,47 @@
     setText(to); if (calm) return;
     const cs = [...rv.querySelectorAll('.c')]; let f = 0;
     const t = setInterval(() => {
-      cs.forEach((c, i) => { if (i < f / 2) c.classList.remove('s'); else { c.classList.add('s'); c.dataset.g = glyphs[Math.random() * glyphs.length | 0]; } });
-      if (++f > to.length * 2) { clearInterval(t); cs.forEach(c => c.classList.remove('s')); }
-    }, 32);
+      cs.forEach((c, i) => { if (i < f) c.classList.remove('s'); else { c.classList.add('s'); c.dataset.g = glyphs[Math.random() * glyphs.length | 0]; } });
+      if (++f > to.length) { clearInterval(t); cs.forEach(c => c.classList.remove('s')); }
+    }, 60);
   }
   setText(words[0]);
   setInterval(() => { wi = (wi + 1) % words.length; scramble(words[wi]); }, 3200);
 
-  /* Pointer: subtle card tilt, aurora parallax, magnetic icons */
+  /* Pointer: subtle card tilt (batched once per frame) + magnetic icons */
   if (fine && !calm) {
-    addEventListener('pointermove', e => {
-      root.style.setProperty('--px', (e.clientX / innerWidth - .5).toFixed(3));
-      root.style.setProperty('--py', (e.clientY / innerHeight - .5).toFixed(3));
-    });
+    let card = null, rect = null, ex = 0, ey = 0, raf = 0;
     const flat = c => { c.style.setProperty('--rx', '0deg'); c.style.setProperty('--ry', '0deg'); };
+    const paint = () => {
+      raf = 0; if (!card) return;
+      rect = rect || card.getBoundingClientRect();
+      const x = (ex - rect.left) / rect.width, y = (ey - rect.top) / rect.height, s = card.style;
+      s.setProperty('--ry', ((x - .5) * 6).toFixed(2) + 'deg'); s.setProperty('--rx', ((.5 - y) * 5).toFixed(2) + 'deg');
+      s.setProperty('--mx', x * 100 + '%'); s.setProperty('--my', y * 100 + '%');
+    };
     grid.addEventListener('pointermove', e => {
       const c = e.target.closest('.card'); if (!c) return;
-      const r = c.getBoundingClientRect(), x = (e.clientX - r.left) / r.width, y = (e.clientY - r.top) / r.height;
-      c.style.setProperty('--ry', ((x - .5) * 6).toFixed(2) + 'deg');
-      c.style.setProperty('--rx', ((.5 - y) * 5).toFixed(2) + 'deg');
-      c.style.setProperty('--mx', x * 100 + '%'); c.style.setProperty('--my', y * 100 + '%');
+      if (c !== card) { card = c; rect = null; }
+      ex = e.clientX; ey = e.clientY; if (!raf) raf = requestAnimationFrame(paint);
     });
-    grid.addEventListener('pointerout', e => { const c = e.target.closest('.card'); if (c && !c.contains(e.relatedTarget)) flat(c); });
+    grid.addEventListener('pointerout', e => {
+      const c = e.target.closest('.card');
+      if (c && !c.contains(e.relatedTarget)) { flat(c); if (card === c) { card = null; rect = null; } }
+    });
+    addEventListener('scroll', () => { rect = null; }, { passive: true });
     const nav = document.querySelector('.socials');
     nav.addEventListener('pointermove', e => { const a = e.target.closest('a'); if (!a) return; const r = a.getBoundingClientRect(); a.style.translate = (e.clientX - r.left - r.width / 2) * .35 + 'px ' + (e.clientY - r.top - r.height / 2) * .35 + 'px'; });
     nav.addEventListener('pointerout', e => { const a = e.target.closest('a'); if (a) a.style.translate = ''; });
   }
 
-  /* Scroll progress */
-  const bar = $('progress');
-  const prog = () => bar.style.transform = 'scaleX(' + (scrollY / Math.max(1, root.scrollHeight - innerHeight)) + ')';
-  addEventListener('scroll', prog, { passive: true }); prog();
+  /* Scroll progress: max scroll is cached, bar updates once per frame */
+  const bar = $('progress'); let max = 1, ticking = false;
+  const measure = () => { max = Math.max(1, root.scrollHeight - innerHeight); };
+  const prog = () => { ticking = false; bar.style.transform = 'scaleX(' + Math.min(1, scrollY / max) + ')'; };
+  addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(prog); } }, { passive: true });
+  addEventListener('resize', () => { measure(); prog(); });
+  addEventListener('load', () => { measure(); prog(); });
+  measure(); prog();
 
   /* Popup */
   const dlg = $('popup'); let opener = null;

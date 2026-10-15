@@ -1,0 +1,17 @@
+<cluster name='Mioria' id='2' color="#FF8DA0FF"  lastId="6"  needStars="8">
+	<marks>
+		<mark x='-211' y='99' id='1' fullNum='5'/>
+		<mark x='-61' y='-59' id='2' fullNum='6'/>
+		<mark x='-262' y='-177' id='3'   fullNum='7' type="bonus" skipNext="true"/>
+		<mark x='34' y='172' id='4' fullNum='8'/>
+		<mark x='287' y='53' id='5'  fullNum='9'/>
+		<mark x='267' y='-129' id='6'  fullNum='10' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='2' to='4'/>
+		<line from='4' to='5'/>
+		<line from='5' to='6'/>
+	</lines>
+</cluster>

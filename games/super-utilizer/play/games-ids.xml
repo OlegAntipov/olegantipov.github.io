@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">762361025909</string>
+  <!-- package_name -->
+  <string name="package_name" translatable="false">com.anegmetex.utilizer</string>
+  <!-- achievement Stone-still -->
+  <string name="achievement_stonestill" translatable="false">CgkI9aqIgpgWEAIQBA</string>
+  <!-- achievement Persistent -->
+  <string name="achievement_persistent" translatable="false">CgkI9aqIgpgWEAIQBQ</string>
+  <!-- achievement Devastator -->
+  <string name="achievement_devastator" translatable="false">CgkI9aqIgpgWEAIQBg</string>
+  <!-- achievement Killer -->
+  <string name="achievement_killer" translatable="false">CgkI9aqIgpgWEAIQBw</string>
+  <!-- achievement Dangerous -->
+  <string name="achievement_dangerous" translatable="false">CgkI9aqIgpgWEAIQCA</string>
+  <!-- achievement Prudent -->
+  <string name="achievement_prudent" translatable="false">CgkI9aqIgpgWEAIQCQ</string>
+  <!-- achievement Combinator -->
+  <string name="achievement_combinator" translatable="false">CgkI9aqIgpgWEAIQCg</string>
+  <!-- achievement Resilient -->
+  <string name="achievement_resilient" translatable="false">CgkI9aqIgpgWEAIQCw</string>
+  <!-- achievement Rigorous -->
+  <string name="achievement_rigorous" translatable="false">CgkI9aqIgpgWEAIQDA</string>
+  <!-- achievement Nimble -->
+  <string name="achievement_nimble" translatable="false">CgkI9aqIgpgWEAIQDQ</string>
+  <!-- achievement Endurant -->
+  <string name="achievement_endurant" translatable="false">CgkI9aqIgpgWEAIQDg</string>
+  <!-- achievement Successful -->
+  <string name="achievement_successful" translatable="false">CgkI9aqIgpgWEAIQDw</string>
+  <!-- achievement Collector -->
+  <string name="achievement_collector" translatable="false">CgkI9aqIgpgWEAIQEA</string>
+  <!-- achievement Mega-combo -->
+  <string name="achievement_megacombo" translatable="false">CgkI9aqIgpgWEAIQEQ</string>
+  <!-- achievement Stacker -->
+  <string name="achievement_stacker" translatable="false">CgkI9aqIgpgWEAIQEg</string>
+  <!-- achievement Mr. Utilizer -->
+  <string name="achievement_mr._utilizer" translatable="false">CgkI9aqIgpgWEAIQEw</string>
+  <!-- achievement Flawless -->
+  <string name="achievement_flawless" translatable="false">CgkI9aqIgpgWEAIQFA</string>
+  <!-- achievement Mr. Shootgun -->
+  <string name="achievement_mr._shootgun" translatable="false">CgkI9aqIgpgWEAIQFQ</string>
+  <!-- achievement Mr. Laser -->
+  <string name="achievement_mr._laser" translatable="false">CgkI9aqIgpgWEAIQFg</string>
+  <!-- achievement Mr. Bird -->
+  <string name="achievement_mr._bird" translatable="false">CgkI9aqIgpgWEAIQFw</string>
+  <!-- achievement Mr. Igniter -->
+  <string name="achievement_mr._igniter" translatable="false">CgkI9aqIgpgWEAIQGA</string>
+  <!-- achievement Mr. Swarm -->
+  <string name="achievement_mr._swarm" translatable="false">CgkI9aqIgpgWEAIQGQ</string>
+  <!-- achievement Mr. Quadeye -->
+  <string name="achievement_mr._quadeye" translatable="false">CgkI9aqIgpgWEAIQJA</string>
+  <!-- achievement Mr. Octopus -->
+  <string name="achievement_mr._octopus" translatable="false">CgkI9aqIgpgWEAIQIw</string>
+  <!-- achievement Prosperous -->
+  <string name="achievement_prosperous" translatable="false">CgkI9aqIgpgWEAIQGg</string>
+  <!-- achievement Wealthy -->
+  <string name="achievement_wealthy" translatable="false">CgkI9aqIgpgWEAIQGw</string>
+  <!-- achievement Rich -->
+  <string name="achievement_rich" translatable="false">CgkI9aqIgpgWEAIQHA</string>
+  <!-- achievement Mule -->
+  <string name="achievement_mule" translatable="false">CgkI9aqIgpgWEAIQHQ</string>
+  <!-- achievement Behemoth -->
+  <string name="achievement_behemoth" translatable="false">CgkI9aqIgpgWEAIQHg</string>
+  <!-- achievement Falcon -->
+  <string name="achievement_falcon" translatable="false">CgkI9aqIgpgWEAIQHw</string>
+  <!-- achievement Zeus -->
+  <string name="achievement_zeus" translatable="false">CgkI9aqIgpgWEAIQIA</string>
+  <!-- achievement OMEGA -->
+  <string name="achievement_omega" translatable="false">CgkI9aqIgpgWEAIQIQ</string>
+  <!-- achievement Nuked! -->
+  <string name="achievement_nuked" translatable="false">CgkI9aqIgpgWEAIQJg</string>
+  <!-- achievement Stylish -->
+  <string name="achievement_stylish" translatable="false">CgkI9aqIgpgWEAIQJw</string>
+  <!-- achievement Skilled -->
+  <string name="achievement_skilled" translatable="false">CgkI9aqIgpgWEAIQKA</string>
+  <!-- achievement Veteran -->
+  <string name="achievement_veteran" translatable="false">CgkI9aqIgpgWEAIQKQ</string>
+  <!-- achievement Elite -->
+  <string name="achievement_elite" translatable="false">CgkI9aqIgpgWEAIQKg</string>
+  <!-- leaderboard SURVIVAL -->
+  <string name="leaderboard_survival" translatable="false">CgkI9aqIgpgWEAIQAw</string>
+  <!-- leaderboard THE ABYSS -->
+  <string name="leaderboard_the_abyss" translatable="false">CgkI9aqIgpgWEAIQJQ</string>
+</resources>

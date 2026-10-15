@@ -1,0 +1,327 @@
+﻿<langData lang="English">
+    <text id="GameTitle">SUPER UTILIZER</text>
+	<text id="CR">OLEG ANTIPOV (C) 2025</text>
+	<text id="gameVer">VERSION</text>
+	<text id="verNum">1.1.8</text>
+	<text id="loading">Loading...</text>
+	<text id="sync">Sync...</text>
+	<text id="prepData">Data preparation...</text>
+	
+	
+	<text id="confirmTermsTitle">Welcome!</text>
+	<text id="confirmGDPRTitle">Important information</text>
+	<text id="confirmTerms">Before you start, please read and accept our terms of service and privacy policy. Thanks for choosing our game and let us wish you good luck!</text>
+	<text id="confirmGDPR">If you want to see personalized ads while playing the game, please allow our ad partners to collect and process the data about your device. Read privacy policy for more information.</text>
+	<text id="btnTerms">Terms of service</text>
+	<text id="btnPolicy">Privacy policy</text>
+	
+	<text id="btnSkip">SKIP</text>
+	<text id="btnPlay">PLAY!</text>
+	<text id="btnRate">RATE!</text>
+	<text id="btnAbyss">TO THE ABYSS!</text>
+	<text id="btnUpgrade">UPGRADE</text>
+	<text id="btnSurv">SURVIVAL</text>
+	<text id="btnAster">ASTEROIDS</text>
+	<text id="btnInv">INVASION</text>
+	<text id="btnAbyssInfo">THE ABYSS</text>
+	<text id="btnMasks">STYLING</text>
+	<text id="btnContinue">CONTINUE</text>
+	<text id="btnReward2X">DOUBLE REWARD!</text>
+	<text id="btnExit">EXIT</text>
+	<text id="btnNext">NEXT</text>
+	<text id="btnRestart">RESTART</text>
+	<text id="btnYes">YES</text>
+	<text id="btnNo">NO</text>
+	<text id="btnAccept">I ACCEPT</text>
+	<text id="btnUnAvail">UNAVAILABLE</text>
+	<text id="btnRestore">RESTORE</text>
+	<text id="btnOk">OK</text>
+	
+	<text id="survNotAval">SURVIVAL WILL BE AVAILABLE/nAFTER THE SECTOR 2-6</text>
+	<text id="upgNotAval">UPGRADE WILL BE AVAILABLE/nAFTER THE SECTOR 1-1</text>
+	<text id="stylesNotAval">STYLING WILL BE AVAILABLE/nAFTER THE SECTOR 1-2</text>
+	<text id="gameNotAvalCluster">YOU NEED TO COMPLETE/nPREVIOUS SECTORS</text>
+	<text id="gameNotAvalStars">YOU NEED TO GET/nMORE STARS</text>
+	<text id="syncOK">SYNC DONE!</text>
+	<text id="syncBAD">SYNC ERROR</text>
+	
+	<text id="clickToContinue">Touch the screen/nto continue</text>
+	
+	<text id="hlp1">MOVE</text>
+	<text id="hlp2">CATCH</text>
+	<text id="hlp3">COMBINE</text>
+	<text id="hlp4">ELIMINATE</text>
+	
+	<text id="confirmReset">Do you really want/nto erase ALL progress?</text>
+	<text id="confirmRestart">Do you really want/nto start this sector again?</text>
+	<text id="confirmExit">Do you really want/nto exit to the main menu?</text>
+	<text id="confirmExit2">Do you really want/nleave this game? :(</text>
+	
+	<text id="promoTitle">Promo</text>
+	<text id="promoMsg">Input promo code:</text>
+	<text id="promoApplyOK">Promo code is applied!</text>
+	<text id="promoApplyError">Promo code is expired/n or doesn't exist</text>
+	<text id="cmdApplyOK">Command is executed!</text>
+	<text id="cmdApplyError">Error :(</text>
+	<text id="OptMenuPaused">GAME PAUSED</text>
+	<text id="OptMenuTitle">OPTIONS</text>
+	<text id="optCtrl1">Controls 2</text>
+	<text id="optCtrl2">Controls 1</text>
+	<text id="optPromo">Promo code</text>
+	<text id="optSens">Response</text>
+	<text id="optAuth">Authors</text>
+	<text id="optMus">Music</text>
+	<text id="optSnd">Sound</text>
+	<text id="optVoc">Speech</text>
+	<text id="optRecover">Recover</text>
+	<text id="optReset">Reset all</text>
+	<text id="optQuaHi">High Quality</text>
+	<text id="optQuaLo">Low Quality</text>
+	<text id="optTransEn">US English</text>
+	<text id="optTransRu">Russian</text>
+	<text id="optGameServIn">Logged in</text>
+	<text id="optGameServOut">Logged out</text>
+	
+	<text id="shopMenuTitle">SHOP</text>
+	<text id="btnBuy">BUY</text>
+	<text id="btnGet">OBTAIN</text>
+	<text id="btnGot">PURCHASED</text>
+	<text id="shopItemAd">DISABLE ADS</text>
+	<text id="shopItem0">A FEW COINS</text>
+	<text id="shopItem1">HANDFUL OF COINS</text>
+	<text id="shopItem2">PLENTY OF COINS</text>
+	<text id="shopItem3">OODLES OF COINS</text>
+	<text id="shopItem4">ENDLESS COINS</text>
+	<text id="shopBuyCompl">PURCHASE COMPLETE!</text>
+	<text id="shopBuyError">ERROR! TRY AGAIN LATER</text>
+	<text id="shopRestore">PURCHASES ARE RESTORED</text>
+	<text id="shopRewardCompl">COINS RECEIVED!</text>
+	<text id="shopRewardError">ERROR! TRY AGAIN LATER</text>
+	<text id="shopRewardDecl">CANCELED</text>
+	<text id="restartRewardCompl">YOU CAN CONTINUE!</text>
+	<text id="restartRewardError">ERROR! TRY AGAIN LATER</text>
+	<text id="restartRewardDecl">CANCELED</text>
+	<text id="resultRewardCompl">DOUBLE REWARD!</text>
+	<text id="resultRewardError">ERROR! TRY AGAIN LATER</text>
+	<text id="resultRewardDecl">CANCELED</text>
+
+	<text id="restartMenuTitle">GIVE A CHANCE?</text>
+	<text id="gameOverTitle">GAME OVER!</text>
+	<text id="sectorClearTitle">SECTOR CLEAR!</text>
+	<text id="sectorComplete">SECTOR COMPLETE!</text>
+	<text id="sectorFail">SECTOR FAILED...</text>
+	<text id="bossTitle">DANGEROUS OBJECT/nIS APPROACHING!</text>
+	<text id="ForwardTitle">FORWARD!</text>
+	<text id="blockLost">BLOCK LOST!</text>
+	<text id="enemyCrossLine">ENEMY CROSSED THE LINE!</text>
+	<text id="cleanPad">CLEAN PAD!</text>
+	<text id="combo">COMBO!</text>
+	<text id="malf">MALFUNCTION!</text>
+	
+	<text id="deaths">LIVES LOST:</text>	
+	<text id="enemiesKilled">ENEMIES KILLED:</text>
+	<text id="blocksCollected">BLOCKS UTILIZED:</text>
+	<text id="cashEarned">CASH EARNED:</text>
+	<text id="cashBonus">NEW STARS:</text>
+	<text id="cashBonusAbyss">SAPPHIRE SCULLS:</text>
+	<text id="cashExtra">COMPLETE:</text>
+	<text id="cashTotal">CASH TOTAL:</text>
+	<text id="lives">LIVES</text>
+	<text id="starsInfo">COMPLETE THIS SECTOR/nAND GET STARS</text>
+	<text id="scullsInfo">COMPLETE THIS LEVEL/nAND GET SCULLS</text>
+	
+	<text id="clusterAbyss">"THE ABYSS"</text>
+	<text id="sectorAbyss">LEVEL</text>
+	
+	<text id="openedCluster">CLUSTER IS OPENED:</text>
+	<text id="openedMode">GAME MODE IS OPENED:</text>
+	<text id="openedAvail">NOW AVAILABLE:</text>
+
+	<text id="clusterCelestia">"CELESTIA"</text>
+	<text id="clusterMioria">"MIORIA"</text>
+	<text id="clusterIkar">"IKARUS"</text>
+	<text id="clusterAlderra">"ALDERRA"</text>
+	<text id="clusterTaliman">"TALIMAN"</text>
+	<text id="clusterErgo">"ERGO"</text>
+	<text id="clusterHortus">"HORTUS"</text>
+	<text id="clusterNibellion">"NIBELLION"</text>
+	<text id="sector">SECTOR</text>
+	<text id="sector_bonus">ASTEROIDS SECTOR!</text>
+	<text id="sector_invaders">INVASION SECTOR!</text>
+	<text id="sector_surv">SURVIVAL MODE!</text>
+	<text id="sector_boss">BOSS SECTOR!</text>
+	<text id="sectorLocked">LOCKED</text>
+	<text id="lastCluster">THANKS/nFOR PLAYING!</text>
+	<text id="lastClusterThanks">Very soon we will make more levels! In the meantime, we will be grateful if you rate this game in the app store.</text>
+	<text id="needStarsForCluster">/nTo get access to this cluster,/nyou need to collect</text>
+	
+	<text id="rule_bonus">Sector rules:/n1. Only one life./n2.Don't miss blocks.</text>
+	<text id="rule_invaders">Sector rules:/n1. Only one life./n2. Monsters shouldn't cross the line.</text>
+	<text id="rule_surv">Rules:/n1. Only one life./n2. Fly as far as possible.</text>
+	
+	<text id="survComplete">RESULTS</text>
+	<text id="survCur">CURRENT:</text>
+	<text id="survBest">BEST:</text>
+	<text id="survCash">CASH EARNED:</text>
+	<text id="survMult">DISTANCE:</text>
+	<text id="survWave">Wave</text>
+	<text id="parsec">parsec</text>
+		
+	<text id="btnLvlUp">NEW HULL</text>
+	<text id="btnUpgradeMenu">UPGRADE!</text>	
+	<text id="btnBack">BACK</text>	
+	
+	<text id="videoAds">VIDEO</text>	
+	
+	<text id="upgLimitHull">Need a hull</text>	
+	
+	<text id="upgSlot_LVL2"> II</text>
+	<text id="upgSlot_frontGun2">Frontal laser</text>	
+	<text id="upgSlot_rearGun2">Rear double-gun</text>	
+	<text id="upgSlot_frontGun">Frontal gun</text>	
+	<text id="upgSlot_sideGun">Side guns</text>	
+	<text id="upgSlot_rearGun">Rear gun</text>	
+	<text id="upgSlot_Engine">Engines</text>	
+	<text id="upgSlot_Nukes">Nuclear bomb</text>
+	<text id="upgSlot_Combinations">Combinations</text>	
+	<text id="upgSlot_BlockMega">Mega-blocks</text>	
+	<text id="upgSlot_Magnet">Coin magnet</text>	
+	<text id="upgSlot_BlockCoins">Utilizing reward</text>	
+	<text id="upgSlot_MonsterCoins">Killing reward</text>	
+	<text id="upgSlot_BonusCoinX2">Double coins</text>	
+	<text id="upgSlot_BonusDmgX2">Double damage</text>	
+	<text id="upgSlot_BonusShield">Shield</text>	
+	<text id="upgSlot_BonusSplit">Splitter</text>	
+	<text id="upgSlot_BonusCoins">Pile of coins</text>	
+	<text id="upgSlot_BonusSame">Same color</text>	
+
+	<text id="hull_1">MOSQUITO</text>
+	<text id="hull_2">MULE</text>
+	<text id="hull_3">BEHEMOTH</text>
+	<text id="hull_4">FALCON</text>
+	<text id="hull_5">ZEUS</text>
+	<text id="hull_6">OMEGA</text>
+	
+	<text id="upgSlotMaximum">Maximum/nis reached</text>
+	<text id="btnLvlUpMax">Maximum</text>
+	
+	<text id="upgSlotParam_dmg_1">Increase/ndamage +30%</text>	
+	<text id="upgSlotParam_rate_1">Increase/nrate of fire +12%</text>	
+	<text id="upgSlotParam_rate_5">Upgrade to/nlevel II</text>	
+	<text id="upgSlotParam_rate_6">Increase/nrate of fire +12%</text>	
+	
+	<text id="upgSlotParam_dmg2_1">Unlock/nfrontal laser</text>	
+	<text id="upgSlotParam_dmg2_2">Increase/ndamage +30%</text>	
+	<text id="upgSlotParam_rate2_1">Increase/nrate of fire +12%</text>	
+	<text id="upgSlotParam_rate2_5">Upgrade to/nlevel II</text>	
+	<text id="upgSlotParam_rate2_6">Increase/nrate of fire +12%</text>	
+	
+	<text id="upgSlotParam_dmgSide_1">Unlock/nside guns</text>	
+	<text id="upgSlotParam_dmgSide_2">Increase/ndamage +30%</text>	
+	<text id="upgSlotParam_rateSide_1">Increase/nrate of fire +12%</text>		
+	<text id="upgSlotParam_rateSide_5">Upgrade to/nlevel II</text>	
+	<text id="upgSlotParam_rateSide_6">Increase/nrate of fire +12%</text>	
+	
+	<text id="upgSlotParam_dmgRear_1">Unlock/nrear gun</text>	
+	<text id="upgSlotParam_dmgRear_2">Increase/ndamage +30%</text>	
+	<text id="upgSlotParam_rateRear_1">Increase/nrate of fire +12%</text>	
+	<text id="upgSlotParam_rateRear_5">Upgrade to/nlevel II</text>	
+	<text id="upgSlotParam_rateRear_6">Increase/nrate of fire +12%</text>	
+	
+	<text id="upgSlotParam_dmgRear2_1">Unlock/nrear double-gun</text>	
+	<text id="upgSlotParam_dmgRear2_2">Increase/ndamage +30%</text>	
+	<text id="upgSlotParam_rateRear2_1">Increase/nrate of fire +12%</text>	
+	<text id="upgSlotParam_rateRear2_5">Upgrade to/nlevel II</text>	
+	<text id="upgSlotParam_rateRear2_6">Increase/nrate of fire +12%</text>	
+	
+	<text id="upgSlotParam_speed_1">Increase engine/npower +15%</text>	
+
+	<text id="upgSlotParam_nukeCnt_1">Unlock/nnuclear bomb</text>	
+	<text id="upgSlotParam_nukeCnt_2">Increase amount/n+1 bomb</text>	
+	<text id="upgSlotParam_nukePower_1">Increase bombs/npower +15%</text>	
+	
+	<text id="upgSlotParam_combine_1">Unlock 4x blocks/nin a square</text>	
+	<text id="upgSlotParam_combine_2">Unlock 4x blocks/nin a row</text>	
+	<text id="upgSlotParam_combine_3">Unlock/n4x diagonal blocks</text>
+	<text id="upgSlotParam_combine_4">Unlock/n3x diagonal blocks</text>	
+	<text id="upgSlotParam_combine_5">Unlock/n4x staggered blocks</text>
+	<text id="upgSlotParam_combine_6">Unlock/n3x staggered blocks</text>		
+	<text id="upgSlotParam_combine_7">Unlock/n4x corner blocks</text>	
+	<text id="upgSlotParam_combine_8">Unlock/n4x zigzag blocks</text>
+	<text id="upgSlotParam_combine_9">Unlock/n3x corner blocks</text>		
+	
+	<text id="upgSlotParam_bonusShield_1">Unlock bonus/n'Shield'</text>		
+	<text id="upgSlotParam_bonusShield_2">Increase/nduration +1 sec</text>		
+	
+	<text id="upgSlotParam_bonusSplit_1">Unlock bonus/n'Splitter'</text>	
+	<text id="upgSlotParam_bonusSplit_2">Increase/nduration +1 sec</text>		
+	
+	<text id="upgSlotParam_bonusSame_1">Unlock bonus/n'Same color'</text>	
+	<text id="upgSlotParam_bonusSame_2">Increase/nduration +3 sec</text>		
+	
+	<text id="upgSlotParam_bonusCoins_1">Unlock bonus/n'Pile of coins'</text>	
+	<text id="upgSlotParam_bonusCoins_2">Increase/namount +10%</text>		
+	
+	<text id="upgSlotParam_bonusCoinX2_1">Unlock bonus/n'Double coins'</text>	
+	<text id="upgSlotParam_bonusCoinX2_2">Increase/nduration +1 sec</text>		
+	
+	<text id="upgSlotParam_bonusDmgX2_1">Unlock bonus/n'Double damage'</text>
+	<text id="upgSlotParam_bonusDmgX2_2">Increase/nduration +1 sec</text>		
+	
+	<text id="upgSlotParam_blockMega_1">Unlock horizontal/nmega-blocks</text>	
+	<text id="upgSlotParam_blockMega_2">Unlock vertical/nmega-blocks</text>	
+	<text id="upgSlotParam_blockMega_3">Unlock crosswise/nmega-blocks</text>	
+	<text id="upgSlotParam_blockMega_4">Unlock surrounding/nmega-blocks</text>	
+	<text id="upgSlotParam_blockMegaChance_1">Increase/nprobability +5%</text>	
+	
+	<text id="upgSlotParam_blockCoins_1">Increase reward/n +1 coin</text>	
+	<text id="upgSlotParam_monsterCoins_1">Increase reward/n +1 coin</text>	
+	
+	<text id="upgSlotParam_magnetPower_1">Increase magnet/npower +10%</text>	
+	
+	<text id="upgSlotParam_magnetRadius_1">Unlock/ncoin magnet</text>	
+	<text id="upgSlotParam_magnetRadius_2">Increase magnet/nradius +15%</text>	
+
+	<text id="auth">code, game design, UI/nOLEG ANTIPOV/n/nart/nOLGA ANTIPOVA/n/nmusic/nOLEG ANTIPOV/nEKATERINA KOTOVA/n/ntesting/nALEXEY BELOV/nALEXANDRA TEREKHOVA/nROMAN BOGOMOLOV</text>
+
+	<text id="intro1">There are many problems in our space.</text>
+	<text id="intro2">It is teeming with alien parasites, debris, and asteroids, making space navigation extremely challenging.</text>
+	<text id="intro3">Therefore, the Star Federation sends Utilizers into deep space to make it safer for interstellar travel.</text>
+	<text id="intro4">Welcome to the Utilization Service, pilot!</text>
+
+	<text id="utilService">Utilization Service</text>
+	<text id="utilServiceSlogan">making space safe since {YEAR}</text>
+
+	<text id="begin1">Start with the space sectors of the star cluster "Celestia". There aren't many dangers here, so I think you can handle it.</text>
+	<text id="begin2">Your main goal is to collect waste containers on the utilization platform.</text>
+	<text id="begin3">And don't forget to sort the waste by color. Remember: we don't need mixed waste, and you won't get a reward for it!</text>
+	<text id="begin4">Eliminate alien parasites. You will receive a reward for each one eliminated, depending on its size and danger level, of course.</text>
+	<text id="begin4_2">Get rid of the remaining monsters to complete the sector.</text>
+	<text id="begin5">You will also be rewarded for completing the sector cleanup. Finish the sector with 3 skill stars and get a big reward!</text>
+
+	<text id="upgradeThis">Upgrade your ship: modernize the utilization platform, buy powerful guns, upgrade your engines, and get nuclear charges!</text>
+	<text id="styleThis">If you want to look cool, you can also visit the styling store and purchase holographic stickers for your ship.</text>
+
+	<text id="nextCluster">Well, you've proven yourself to be an experienced pilot, and now we can give you missions in more dangerous sectors. Your reward will increase, naturally!</text>
+
+	<text id="MioriaCluster">The "Mioria" cluster is known for its vast asteroid fields and frequent invasions of dangerous alien parasites. Stay vigilant!</text>
+	<text id="IkarCluster">The "Ikarus" cluster contains a high concentration of space debris, requiring special attention and effort for its utilization. Be careful and avoid collisions!</text>
+	<text id="AlderraCluster">The "Alderra" cluster often encounters huge swarms of alien monsters threatening our trade routes. Be careful, pilot, and keep your weapons ready!</text>
+	<text id="TalimanCluster">The "Taliman" cluster consists of many complex sectors where Utilizers can earn big rewards for cleanup. But remember the mortal danger and don't act recklessly!</text>
+	<text id="ErgoCluster">The "Ergo" cluster is known for its mysterious and dangerous sectors, where even the most experienced pilots can encounter unexpected threats. Be prepared for any "surprises"!</text>
+	<text id="HortusCluster">The "Hortus" cluster is the most dangerous in our galaxy. Only the best ships with enhanced defenses can clear it. Be prepared before venturing there!</text>
+
+	<text id="boss1Desc">Wow, looks like this One-Eye is bigger than the rest!</text>
+	<text id="boss2Desc">Be careful, this Armorhead has a powerful laser!</text>
+	<text id="boss3Desc">Hmm, who is this - Cosmochick? Beware of its plasma tail!</text>
+	<text id="boss4Desc">Oh no, it's a Firespitter, run for your life!</text>
+	<text id="boss5Desc">Oh, and this is a Multiplier. If you're not careful, it will fill the entire sector with one-eyes!</text>
+	<text id="boss6Desc">Well, well, who is this, Evilhelm? I've never seen one so huge!</text>
+	<text id="boss7Desc">Oh no, it's a giant Bombtacle! Dodge its bombs and force field!</text>
+
+	<text id="asterMode">There are no monsters in this sector, but there are extremely many asteroids and debris, so a general cleanup is required here!</text>
+	<text id="invMode">In this sector, alien parasites gather in huge swarms and attack our trade ships. Defend our space from the monster invasion!</text>
+	<text id="survMode">Test your skills in "Survival" mode: clearing endless space routes of alien pests. Every parsec of clean space will be paid for!</text>
+	<text id="abyssMode">Congratulations,you have discovered the Great Abyss! This is an extremely dangerous place, and no one knows what you might encounter there. Only the bravest and most prepared pilots dare to fly there, good luck!</text>
+
+</langData>

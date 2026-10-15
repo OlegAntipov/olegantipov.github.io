@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:21904728bc683765b66b672d9560eae7:acdb12525180ef2140968ca1a82e2406:2dd322f360b42f0ad14cfb6675c113ab$ -->
+<TextureAtlas imagePath="info.png" width="1024" height="2048">
+    <SubTexture name="aster" x="535" y="386" width="478" height="516"/>
+    <SubTexture name="inv" x="2" y="869" width="393" height="439"/>
+    <SubTexture name="styles" x="2" y="2" width="568" height="267"/>
+    <SubTexture name="surv" x="572" y="2" width="408" height="382"/>
+    <SubTexture name="upg" x="2" y="271" width="531" height="596"/>
+</TextureAtlas>

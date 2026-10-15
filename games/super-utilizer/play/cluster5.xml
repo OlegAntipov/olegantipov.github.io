@@ -1,0 +1,20 @@
+<cluster name='Taliman' id='5' color="#387ddb" lastId="7"   needStars="58">
+	<marks>
+		<mark x='-304' y='-174' id='1'  fullNum='24'/>
+		<mark x='-289' y='100' id='2'  fullNum='25'/>
+		<mark x='-54' y='198' id='3'  fullNum='26'/>
+		<mark x='226' y='201' id='4'  fullNum='27' type="invaders" skipNext="true"/>
+		<mark x='-34' y='-83' id='5'  fullNum='28'/>
+		<mark x='179' y='-230' id='6'  fullNum='29'/>
+		<mark x='295' y='-17' id='7'  fullNum='30' type="boss"/>
+	</marks>
+	<lines>
+		<line from='1' to='2'/>
+		<line from='2' to='3'/>
+		<line from='3' to='4'/>
+		<line from='3' to='5'/>
+		<line from='5' to='6'/>
+		<line from='6' to='7'/>
+	</lines>
+</cluster>
+
